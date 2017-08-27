@@ -587,6 +587,7 @@ Organizations document any overarching assumptions. Organizations can use empiri
 ###### RISK CONSTRAINTS
 
 *TASK 1-2:* Identify constraints on the conduct of risk assessment, risk response, and risk monitoring activities within the organization.
+
 *Supplemental Guidance*: The execution of the risk management process can be constrained in various ways, some of which are direct and obvious, while others are indirect. Financial limitations can constrain the set of risk management activities directly (e.g., by limiting the total resources available for investments in risk assessments or in safeguards or countermeasures) or indirectly (e.g., by eliminating activities which, while involving relatively small investments in risk response, entail curtailing or discarding investments in legacy information systems or information technology).
 Organizations might also discover that the need to continue to depend on legacy information systems may constrain the risk management options available to the organization. Constraints can also include legal, regulatory, and/or contractual requirements. Such constraints can be reflected in organizational policies (e.g., restrictions on outsourcing, restrictions on and/or requirements for information to be gathered as part of risk monitoring). Organizational culture can impose indirect constraints on governance changes (e.g., precluding a shift from decentralized to hybrid governance structures)
 and which security controls are considered by organizations as potential common controls. In particular, organizational attitudes toward information technology risk that, for example, favor extensive automation and early adoption of new technologies can constrain the degree of risk avoidance and perhaps risk mitigation that can be achieved. Any cultural constraints that limit senior leader/executive (e.g., chief information officer) visibility into organizational information systems that are beyond their formal authority (e.g. mission-related systems) may impede overall understanding of the complexity of information systems environment and the related risks to the organization. At Tier 2, mission/business owners interpret constraints in light of organizational missions/business functions. Some regulatory constraints may not apply to particular missions/business functions (e.g., regulations that apply to international operations, when mission/business areas are restricted to the United States). Alternately, additional requirements may apply (e.g., mission/business processes performed jointly with another organization, which imposes contractual constraints). At Tier 3, information system owners, common control providers, and/or program managers interpret the organizationwide and mission/business function-specific constraints with respect to their systems and environments of operation
@@ -595,12 +596,14 @@ and which security controls are considered by organizations as potential common 
 ###### Risk Tolerance
 
 *TASK 1-3:* Identify the level of risk tolerance for the organization.
+
 *Supplemental Guidance:* Risk tolerance is the level of risk that organizations are willing to accept in pursuit of strategic goals and objectives. Organizations define information security-related risk tolerance organization-wide considering all missions/business functions. Organizations can use a variety of techniques for identifying information security risk tolerance (e.g., by establishing zones in a likelihood-impact trade space or by using a set of representative scenarios).
 Organizations also define tolerance for other types of organizational and operational risks (e.g., financial, risk, safety risk, compliance risk, or reputation risk). At Tier 2, mission/business owners may have different risk tolerances from the organization as a whole. The risk executive (function) provides organizations with ways to resolve such differences in risk tolerances at Tier 2. The level of residual risk accepted by authorizing officials for information systems or inherited common controls is within the organizational risk tolerance, and not the individual risk tolerances of those authorizing officials. In addition, organizations provide to Tier 2 and Tier 3, guidance on evaluating risk for specific mission/business processes or information systems and a focus on near-term mission/business effectiveness with the longer-term, strategic focus of the organizational risk tolerance. See Section 2.3.3 for additional information on risk tolerance.
 
 ###### PRIORITIES AND TRADE-OFFS
 
 *TASK 1-4*: Identify priorities and trade-offs considered by the organization in managing risk.
+
 *Supplemental Guidance:* Risk is experienced at different levels, in different forms, and in different time frames. At Tier
 1, organizations make trade-offs among and establish priorities for responding to such risks. Organizations tend to have multiple priorities that at times conflict, which generates potential risk. Approaches employed by organizations for managing portfolios of risks reflect organizational culture, risk tolerance, as well as risk-related assumptions and constraints. These approaches are typically embodied in the strategic plans, policies, and roadmaps of organizations which may indicate preferences for different forms of risk response. For example, organizations may be willing to accept short-term risk of slightly degraded operations to achieve long-term reduction in information security risk.
 
@@ -646,6 +649,7 @@ As courses of action are developed in the risk response step, a differential ris
 ###### THREAT AND VULNERABILITY IDENTIFICATION
 
 *TASK 2-1:* : Identify threats to and vulnerabilities in organizational information systems and the environments in which the systems operate.
+
 *Supplemental Guidance:*  Threat identification requires an examination of threat sources and events. For examining threat sources and events, organizations identify threat capabilities, intentions, and targeting information from all available sources. Organizations can leverage a number of sources for threat information at strategic or tactical levels.
 Threat information generated at any tier can be used to inform or refine the risk-related activities in any other tier. For example, specific threats (i.e., tactics, techniques, and procedures) identified during Tier 1 threat assessments may directly affect mission/business process and architectural design decisions at Tier 2. Specific threat information generated at Tiers 2 and 3 can be used by organizations to refine threat information generated during initial threat assessments carried out at Tier 1.
 
@@ -659,6 +663,7 @@ and mature life cycle processes have outputs that can be used to inform risk ass
 ##### Risk Determination
 
 *TASK 2-2*: Determine the risk to organizational operations and assets, individuals, other organizations, and the Nation if identified threats exploit identified vulnerabilities.
+
 *Supplemental Guidance*: Organizations determine risk by considering the likelihood that known threats exploit known vulnerabilities and the resulting consequences or adverse impacts (i.e., magnitude of harm) if such exploitations occur.
 Organizations use threat and vulnerability information together with likelihood and consequences/impact information to determine risk either qualitatively or quantitatively. Organizations can employ a variety of approaches to determine the likelihood of threats exploiting vulnerabilities. Likelihood determinations can be based on either threat assumptions or actual threat information (e.g., historical data on cyber attacks, historical data on earthquakes, or specific information on adversary capabilities, intentions, and targeting). When specific and credible threat information is available (e.g., types of cyber attacks, cyber attack trends, frequencies of attacks), organizations can use empirical data and statistical analyses to determine more specific probabilities of threats occurring. Assessment of likelihood can also be influenced by whether vulnerability identification occurred at the individual weakness or deficiency level or at the root-cause level. The relative ease/difficulty of vulnerability exploitation, the sophistication of adversaries, and the nature of operational environments all influence the likelihood that threats exploit vulnerabilities. Organizations can characterize adverse impacts by security objective (e.g., loss of confidentiality, integrity, or availability). However, to maximize usefulness, adverse impact is expressed in or translated into terms of organizational missions, business functions, and stakeholders.
 
@@ -715,6 +720,7 @@ In addition to the risk assessment and risk framing steps, the risk response ste
 ###### RISK RESPONSE IDENTIFICATION
 
 *Task 3-1:*  Identify alternative courses of action to respond to risk determined during the risk assessment.
+
 *Supplemental Guidance:* Organizations can respond to risk in a variety of ways. These include:
 
 - Risk acceptance
@@ -787,6 +793,7 @@ Organizations determine acceptable degrees of residual risk based on organizatio
 ###### RISK RESPONSE IMPLEMENTATION
 
 *TASK 3-4:* Implement the course of action selected to respond to risk.
+
 *Supplemental Guidance:* Once a course of action is selected, organizations implement the associated risk response.
 Given the size and complexity of some organizations, the actual implementation of risk response measures may be challenging. Some risk response measures are tactical in nature (e.g., applying patches to identified vulnerabilities in organizational information systems) and may be implemented rather quickly. Other risk response measures may be more strategic in nature and reflect solutions that take much longer to implement. Therefore, organizations apply, and tailor as appropriate to a specific risk response course of action, the risk response implementation considerations in the risk response strategies (part of the risk management strategy developed during the risk framing step). See Appendix H, Risk Response Strategies.
 
@@ -829,6 +836,7 @@ Inputs to this step include implementation strategies for selected courses of ac
 ###### RISK MONITORING STRATEGY
 
 *TASK 4-1:* Develop a risk monitoring strategy for the organization that includes the purpose, type, and frequency of monitoring activities.
+
 *Supplemental Guidance:* Organizations implement risk monitoring programs:
 - To verify that required risk response measures are implemented and that information security requirements derived from and traceable to organizational missions/business functions, federal legislation, directives, regulations, policies, and standards/guidelines, are satisfied (compliance monitoring);
 - To determine the ongoing effectiveness of risk response measures after the measures have been implemented (effectiveness monitoring)
@@ -885,6 +893,7 @@ The frequency of risk monitoring (whether automated or manual) is driven by orga
 ##### RISK MONITORING
 
 *TASK 4-2:* Monitor organizational information systems and environments of operation on an ongoing basis to verify compliance, determine effectiveness of risk response measures, and identify changes.
+
 *Supplemental Guidance:* Once organizations complete the development of their monitoring strategies, the strategies are implemented organization-wide. Because there are so many diverse aspects of monitoring, not all aspects of monitoring may be performed, or they may be performed at different times. The particular aspects of monitoring that are performed are dictated largely by the assumptions, constraints, risk tolerance, and priorities/trade-offs established by organizations during the risk framing step. For example, while organizations might desire to conduct all forms of monitoring (i.e., compliance, effectiveness, and change), the constraints imposed upon the organizations may allow only compliance monitoring that can be readily automated at Tier 3. If multiple aspects of monitoring can be supported, the output from the risk framing step helps organizations to determine the degree of emphasis and level of effort to place on the various monitoring activities.
 
 As noted above, not all monitoring activities are conducted at the same tiers, for the same purpose, at the same time, or using the same techniques. However, it is important that organizations attempt to coordinate the various monitoring activities. Coordination of monitoring activities facilitates the sharing of risk-related information that may be useful for organizations in providing early warning, developing trend information, or allocating risk response measures in a timely and efficient manner. If monitoring is not coordinated, then the benefit of monitoring may be reduced, and could undermine the overall effort to identify and address risk. As feasible, organizations implement the various monitoring activities in a manner that maximizes the overall goal of monitoring, looking beyond the limited goals of particular monitoring activities. Risk monitoring results are applied in performing incremental risk assessments to maintain awareness of the risk being incurred, to highlight changes in risk, and to indicate the need to revisit other steps in the risk management process, as appropriate.
@@ -940,6 +949,7 @@ This appendix provides definitions for security terminology used within Special 
 800-39. The terms in the glossary are consistent with the terms used in the suite of FISMA-related security standards and guidelines developed by NIST. Unless otherwise stated, all terms used in this publication are also consistent with the definitions contained in the CNSS Instruction 4009, National Information Assurance (IA) Glossary.
 
 *Adequate Security [OMB Circular A-130, Appendix III]*: Security commensurate with the risk and magnitude of harm resulting from the loss, misuse, or unauthorized access to or modification of information.
+
 *Advanced Persistent Threat*: An adversary that possesses sophisticated levels of expertise and significant resources which allow it to create opportunities to achieve its objectives by using multiple attack vectors (e.g., cyber, physical, and deception). These objectives typically include establishing and extending footholds within the information technology infrastructure of the targeted organizations for purposes of exfiltrating information, undermining or impeding critical aspects of a mission, program, or organization; or positioning itself to carry out these objectives in the future. The advanced persistent threat:
 
 - Pursues its objectives repeatedly over an extended period of time
@@ -953,8 +963,11 @@ This appendix provides definitions for security terminology used within Special 
 *Assessor*: See Security Control Assessor.
 
 *Assurance*: Measure of confidence that the security features,[CNSSI 4009] practices, procedures, and architecture of an information system accurately mediates and enforces the security policy.
+
 *[NIST SP 800-53]*: Grounds for confidence that the set of intended security controls in an information system are effective in their application.
+
 *Assurance Case [Software Engineering Institute, Carnegie Mellon University]*: A structured set of arguments and a body of evidence showing that an information system satisfies specific  claims with respect to a given quality attribute.
+
 *Authentication [FIPS 200]*:  Verifying the identity of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.
 
 *Authenticity*: The property of being genuine and being able to be verified and trusted; confidence in the validity of a transmission, a message, or message originator. See Authentication.
@@ -962,6 +975,7 @@ This appendix provides definitions for security terminology used within Special 
 *Authorization (to operate)*: The official management decision given by a senior organizational official to authorize operation of an information system and to explicitly accept the risk to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the Nation based on the implementation of an agreed-upon set of security controls.
 
 *Authorization Boundary [NIST SP 800-37]*: All components of an information system to be authorized for operation by an authorizing official and excludes separately authorized systems, to which the information system is connected.
+
 *Authorizing Official [CNSSI 4009]*: Senior (federal) official or executive with the authority to formally assume responsibility for operating an information system at an acceptable level of risk to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the Nation.
 
 *Availability [44 U.S.C., Sec. 3542]*: Ensuring timely and reliable access to and use of information.
@@ -975,23 +989,36 @@ This appendix provides definitions for security terminology used within Special 
 - Promoting the effective and efficient design and operation of all major information resources management processes for the agency, including improvements to work processes of the agency.
 
 *Chief Information Security Officer*: See Senior Agency Information Security Officer.
+
 *Classified National Security Information [CNSSI 4009]*: Information that has been determined pursuant to Executive Order 13526 or any predecessor order to require protection against unauthorized disclosure and is marked to indicate its classified status when in documentary form.
+
 *Common Control [NIST SP 800-37]*: A security control that is inherited by one or more organizational information systems. See Security Control Inheritance.
+
 *Common Control Provider [NIST SP 800-37]*: An organizational official responsible for the development, implementation, assessment, and monitoring of common controls (i.e., security controls inherited by information systems).
+
 *Compensating Security Control [CNSSI 4009]*: A management, operational, and/or technical control (i.e., safeguard or countermeasure) employed by an organization in lieu of a recommended security control in the low, moderate, or high baselines that provides equivalent or comparable protection for an information system.
+
 *Confidentiality [44 U.S.C., Sec. 3542]*:  Preserving authorized restrictions on information access and disclosure, including means for protecting personal privacy and proprietary information.
 Course of Action (Risk Response): A time-phased or situation-dependent combination of risk response measures.
+
 *Cyber Attack [CNSSI 4009]*: An attack, via cyberspace, targeting an enterprise’s use of cyberspace for the purpose of disrupting, disabling, destroying, or maliciously controlling a computing environment/infrastructure; or destroying the integrity of the data or stealing controlled information.
+
 *Cyber Security [CNSSI 4009]*:  The ability to protect or defend the use of cyberspace from cyber attacks.
+
 *Cyberspace [CNSSI 4009]*:  A global domain within the information environment consisting of the interdependent network of information systems infrastructures including the Internet, telecommunications networks, computer systems, and embedded processors and controllers.
 
 *Defense-in-Breadth [CNSSI 4009]*:  A planned, systematic set of multidisciplinary activities that seek to identify, manage, and reduce risk of exploitable vulnerabilities at every stage of the system, network, or subcomponent life cycle (system, network, or product design and development; manufacturing; packaging; assembly; system integration; distribution; operations; maintenance; and retirement).
 
 *Defense-in-Depth [CNSSI 4009]*:  Information security strategy integrating people, technology, and operations capabilities to establish variable barriers across multiple layers and missions of the organization.
+
 *Enterprise [CNSSI 4009]*:  An organization with a defined mission/goal and a defined boundary, using information systems to execute that mission, and with responsibility for managing its own risks and performance. An enterprise may consist of all or some of the following business aspects: acquisition, program management, financial management (e.g., budgets), human resources, security, and information systems, information and mission management. See Organization.
+
 *Enterprise Architecture [CNSSI 4009]*:  The description of an enterprise’s entire set of information systems: how they are configured, how they are integrated, how they interface to the external environment at the enterprise’s boundary, how they are operated to support the enterprise mission, and how they contribute to the enterprise’s overall security posture.
+
 *Environment of Operation [NIST SP 800-37]*:  The physical surroundings in which an information system processes, stores, and transmits information.
+
 *Executive Agency [41 U.S.C., Sec. 403]*:  An executive department specified in 5 U.S.C., Sec. 101; a military department specified in 5 U.S.C., Sec. 102; an independent establishment as defined in 5 U.S.C., Sec.104(1); and a wholly owned Government corporation fully subject to the provisions of 31 U.S.C., Chapter 91.
+
 *Federal Agency*:  See Executive Agency.
 
 *Federal Information System [40 U.S.C., Sec. 11331]*:  An information system used or operated by an executive agency, by a contractor of an executive agency, or by another organization on behalf of an executive agency.
@@ -999,27 +1026,41 @@ Course of Action (Risk Response): A time-phased or situation-dependent combinati
 *Hybrid Security Control [NIST SP 800-53]*:  A security control that is implemented in an information system in part as a common control and in part as a system-specific control. See Common Control and System-Specific Security Control.
 
 *Individuals*:  An assessment object that includes people applying specifications, mechanisms, or activities.
+
 *Industrial Control System*:  An information system used to control industrial processes such as manufacturing, product handling, production, and distribution. Industrial control systems include supervisory control and data acquisition systems used to control geographically dispersed assets, as well as distributed control systems and smaller control systems using programmable logic controllers to control localized processes.
+
 *Information [CNSSI 4009]*:  Any communication or representation of knowledge such as facts, data, or opinions in any medium or form, including textual, numerical, graphic, cartographic, narrative, or audiovisual.
+
 *\[FIPS 199\]*: An instance of an information type.
 
 *Information Owner [CNSSI 4009]*:   Official with statutory or operational authority for specified information and responsibility for establishing the controls for its generation, classification, collection, processing, dissemination, and disposal. See Information Steward.
+
 *Information Resources [44 U.S.C., Sec. 3502]*:  Information and related resources, such as personnel, equipment, funds, and information technology.
+
 *Information Security [44 U.S.C., Sec. 3542]*:   The protection of information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide confidentiality, integrity, and availability.
+
 *Information Security Architecture*:  An embedded, integral part of the enterprise architecture that describes the structure and behavior for an enterprise’s security processes, information security systems, personnel and organizational sub-units, showing their alignment with the enterprise’s mission and strategic plans.
+
 *Information Security Program Plan [NIST SP 800-53]*:  Formal document that provides an overview of the security requirements for an organization-wide information security program and describes the program management controls and common controls in place or planned for meeting those requirements.
+
 *Information Steward [CNSSI 4009]*:  An agency official with statutory or operational authority for specified information and responsibility for establishing the controls for its generation, collection, processing, dissemination, and disposal.
+
 *Information System [44 U.S.C., Sec. 3502]*:  A discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information.
+
 *Information System Boundary*:  See Authorization Boundary.
+
 *Information System Owner*:  Official responsible for the overall procurement, (or Program Manager) development, integration, modification, or operation and maintenance of an information system.
+
 *Information System Resilience*:  The ability of an information system to continue to:
 - Operate under adverse conditions or stress, even if in a degraded or debilitated state, while maintaining essential operational capabilities
 - Recover to an effective operational posture in a time frame consistent with mission needs.
 
 *Information System Security Officer*:  Individual assigned responsibility by the senior agency information security officer, authorizing official, management official, or information system owner for maintaining the appropriate operational security posture for an information system or program.
+
 *Information Security Risk*:  The risk to organizational operations (including mission, functions, image, reputation), organizational assets, individuals, other organizations, and the Nation due to the potential for unauthorized access, use, disclosure, disruption, modification, or destruction of information and/or information systems.
 
 *Information System-Related Security Risks*:  Risks that arise through the loss of confidentiality, integrity, or availability of information or information systems and consider impacts to the organization (including assets, mission, functions, image, or reputation), individuals, other organizations, and the Nation. See Risk.
+
 *Information Technology [40 U.S.C., Sec. 1401]*:  Any equipment or interconnected system or subsystem of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency. For purposes of the preceding sentence, equipment is used by an executive agency if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency which:
 
 - Requires the use of such equipment; or
@@ -1028,9 +1069,11 @@ Course of Action (Risk Response): A time-phased or situation-dependent combinati
 The term information technology includes computers, ancillary equipment, software, firmware, and similar procedures, services (including support services), and related resources.
 
 *Information Type [FIPS 199]*:  A specific category of information (e.g., privacy, medical, proprietary, financial, investigative, contractor sensitive, security management) defined by an organization or in some instances, by a specific law, Executive Order, directive, policy, or regulation.
+
 *Integrity [44 U.S.C., Sec. 3542]*:  Guarding against improper information modification or destruction, and includes ensuring information nonrepudiation and authenticity.
 
 *Management Controls [FIPS 200]*:  The security controls (i.e., safeguards or countermeasures) for an information system that focus on the management of risk and the management of information system security.
+
 *National Security System [44 U.S.C., Sec. 3542]*:  Any information system (including any telecommunications system) used or operated by an agency or by a contractor of an agency, or other organization on behalf of an agency
 - The function, operation, or use of which involves intelligence activities; involves cryptologic activities related to national security; involves command and control of military forces; involves equipment that is an integral part of a weapon or weapons system; or is critical to the direct fulfillment of military or intelligence missions (excluding a system that is to be used for routine administrative and business applications, for example, payroll, finance, logistics, and personnel management applications); or
 - Is protected at all times by procedures established for information that have been specifically authorized under criteria established by an Executive Order or an Act of Congress to be kept classified in the interest of national defense or foreign policy.
@@ -1044,9 +1087,11 @@ The term information technology includes computers, ancillary equipment, softwar
 *Reciprocity*:  Mutual agreement among participating organizations to accept each other’s security assessments in order to reuse information system resources and/or to accept each other’s assessed security posture in order to share information.
 
 *Resilience*:  See Information System Resilience.
+
 *Risk [CNSSI 4009]*:  A measure of the extent to which an entity is threatened by a potential circumstance or event, and typically a function of:
 - The adverse impacts that would arise if the circumstance or event occurs
 - The likelihood of occurrence.
+
 *[Note*:  Information system-related security risks are those risks that arise from the loss of confidentiality, integrity, or availability of information or information systems and reflect the potential adverse impacts to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the Nation.]
 *Risk Assessment*:  The process of identifying risks to organizational operations (including mission, functions, image, reputation), organizational assets, individuals, other organizations, and the Nation, resulting from the operation of an information system.
 Part of risk management, incorporates threat and vulnerability analyses, and considers mitigations provided by security controls planned or in place. Synonymous with risk analysis.
@@ -1062,35 +1107,53 @@ Risk Executive (Function)[CNSSI 4009]: An individual or group within an organiza
 - Monitoring risk over time.
 
 *Risk Mitigation [CNSSI 4009]*:  Prioritizing, evaluating, and implementing the appropriate risk-reducing controls/countermeasures recommended from the risk management process.
+
 *Risk Monitoring*:   Maintaining ongoing awareness of an organization’s risk environment, risk management program, and associated activities to support risk decisions.
+
 *Risk Response*:   Accepting, avoiding, mitigating, sharing, or transferring risk to organizational operations (i.e., mission, functions, image, or reputation), organizational assets, individuals, other organizations, or the Nation.
+
 *Risk Response Measure*:  A specific action taken to respond to an identified risk.
+
 *Root Cause Analysis*:  A principle-based, systems approach for the identification of underlying causes associated with a particular set of risks.
 Security Authorization (to Operate): See Authorization (to operate).
+
 *Security Categorization*:  The process of determining the security category for information or an information system. Security categorization methodologies are described in CNSS Instruction 1253 for national security systems and in FIPS 199 for other than national security systems.
 
 *Security Control Assessment [CNSSI 4009, Adapted]*:  The testing and/or evaluation of the management, operational, and technical security controls to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security requirements for an information system or organization.
+
 *Security Control Assessor*:  The individual, group, or organization responsible for conducting a security control assessment.
+
 *Security Control Baseline [CNSSI 4009]*:  The set of minimum security controls defined for a low impact, moderate-impact, or high-impact information system.
+
 *Security Control Enhancements*:  Statements of security capability to:
 
 - Build in additional, but related, functionality to a basic control; and/or
 - Increase the strength of a basic control.
 
 *Security Control Inheritance [CNSSI 4009]*:  A situation in which an information system or application receives protection from security controls (or portions of security controls) that are developed, implemented, assessed, authorized, and monitored by entities other than those responsible for the system or application; entities either internal or external to the organization where the system or application resides. See Common Control.
+
 *Security Controls [FIPS 199, CNSSI 4009]*:  The management, operational, and technical controls (i.e., safeguards or countermeasures) prescribed for an information system to protect the confidentiality, integrity, and availability of the system and its information.
+
 *Security Impact Analysis [NIST SP 800-37]*:  The analysis conducted by an organizational official to determine the extent to which changes to the information system have affected the security state of the system.
+
 *Security Objective [FIPS 199]*:  Confidentiality, integrity, or availability.
+
 *Security Plan [NIST SP 800-18]*:  Formal document that provides an overview of the security requirements for an information system or an information security program and describes the security controls in place or planned for meeting those requirements. See System Security Plan or Information Security Program Plan.
+
 *Security Policy [CNSSI 4009]*:  A set of criteria for the provision of security services.
+
 *Security Requirements [FIPS 200]*:  Requirements levied on an information system that are derived from applicable laws, Executive Orders, directives, policies, standards, instructions, regulations, procedures, or organizational mission/business case needs to ensure the confidentiality, integrity, and availability of the information being processed, stored, or transmitted.
 
 *Senior Agency Information Security Officer [44 U.S.C., Sec. 3544]*:  Official responsible for carrying out the Chief Information Officer responsibilities under FISMA and serving as the Chief Information Officer’s primary liaison to the agency’s authorizing officials, information system owners, and information system security officers. [Note: Organizations subordinate to federal agencies may use the term Senior Information Security Officer or Chief Information Security Officer to denote individuals filling positions with similar responsibilities to Senior Agency Information Security Officers.]
 *Senior Information Security Officer Subsystem*:  See Senior Agency Information Security Officer.
 Supplementation (Security Controls): The process of adding security controls or control enhancements to a security control baseline from NIST Special Publication 800-53 or CNSS Instruction 1253 in order to adequately meet the organization’s risk management needs.
+
 *System*:  See Information System.
+
 *System Security Plan [NIST SP 800-18]*:  Formal document that provides an overview of the security requirements for an information system and describes the security controls in place or planned for meeting those requirements.
+
 *System-Specific Security Control [NIST SP 800-37]*:  A security control for an information system that has not been designated as a common control or the portion of a hybrid control that is to be implemented within an information system.
+
 *Tailoring [NIST SP 800-53, CNSSI 4009]*:  The process by which a security control baseline is modified based on:
 
 - The application of scoping guidance
@@ -1099,12 +1162,19 @@ Supplementation (Security Controls): The process of adding security controls or 
 
 *Tailored Security Control Baseline*: A set of security controls resulting from the application of tailoring guidance to the security control baseline. See Tailoring.
 A major subdivision or component of an information system consisting of information, information technology, and personnel that performs one or more specific functions.
+
 *Technical Controls [FIPS 200]*: Security controls (i.e., safeguards or countermeasures) for an information system that are primarily implemented and executed by the information system through mechanisms contained in the hardware, software, or firmware components of the system.
+
 *Threat [CNSSI 4009]*: Any circumstance or event with the potential to adversely impact organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, or the Nation through an information system via unauthorized access, destruction, disclosure, modification of information, and/or denial of service.
+
 *Threat Assessment [CNSSI 4009]*: Process of formally evaluating the degree of threat to an information system or enterprise and describing the nature of the threat.
+
 *Threat Source [CNSSI 4009]*: The intent and method targeted at the intentional exploitation of a vulnerability or a situation and method that may accidentally exploit a vulnerability.
+
 *Trustworthiness [CNSSI 4009]*: The attribute of a person or enterprise that provides confidence to others of the qualifications, capabilities, and reliability of that entity to perform specific tasks and fulfill assigned responsibilities.
+
 *Vulnerability [CNSSI 4009]*: Weakness in an information system, system security procedures, internal controls, or implementation that could be exploited by a threat source.
+
 *Vulnerability Assessment [CNSSI 4009]*: Systematic examination of an information system or product to determine the adequacy of security measures, identify security deficiencies, provide data from which to predict the effectiveness of proposed security measures, and confirm the adequacy of such measures after implementation.
 
 
