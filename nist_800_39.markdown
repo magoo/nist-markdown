@@ -1,9 +1,5 @@
 # NIST Special Publication 800-39
-> This version is heavily edited for markdown formatting.
-
-> Please see original publication for serious usage, as small discrepencies are likely.
-
-> For instance, all footnotes were removed. Did you need them? They're not here.
+> This version is heavily edited for markdown formatting. See [README.](readme.md)
 
 # Chapter One
 
