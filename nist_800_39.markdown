@@ -939,17 +939,19 @@ For example, compliance monitoring results may require that organizations revisi
 This appendix provides definitions for security terminology used within Special Publication
 800-39. The terms in the glossary are consistent with the terms used in the suite of FISMA-related security standards and guidelines developed by NIST. Unless otherwise stated, all terms used in this publication are also consistent with the definitions contained in the CNSS Instruction 4009, National Information Assurance (IA) Glossary.
 
-Adequate Security - Security  commensurate with the risk and magnitude of
-[OMB Circular A-130, Appendix III] harm resulting from the loss, misuse, or unauthorized access to or modification of information.
-Advanced Persistent Threat - An adversary that possesses sophisticated levels of expertise and significant resources which allow it to create opportunities to achieve its objectives by using multiple attack vectors (e.g., cyber, physical, and deception). These objectives typically include establishing and extending footholds within the information technology infrastructure of the targeted organizations for purposes of exfiltrating information, undermining or impeding critical aspects of a mission, program, or organization; or positioning itself to carry out these objectives in the future. The advanced persistent threat:
+*Adequate Security [OMB Circular A-130, Appendix III]*: Security commensurate with the risk and magnitude of harm resulting from the loss, misuse, or unauthorized access to or modification of information.
+*Advanced Persistent Threat*: An adversary that possesses sophisticated levels of expertise and significant resources which allow it to create opportunities to achieve its objectives by using multiple attack vectors (e.g., cyber, physical, and deception). These objectives typically include establishing and extending footholds within the information technology infrastructure of the targeted organizations for purposes of exfiltrating information, undermining or impeding critical aspects of a mission, program, or organization; or positioning itself to carry out these objectives in the future. The advanced persistent threat:
 
 - Pursues its objectives repeatedly over an extended period of time
 - Adapts to defenders’ efforts to resist it
 - Is determined to maintain the level of interaction needed to execute its objectives.
 
 *Agency*: See Executive Agency.
+
 *Assessment*: See Security Control Assessment.
+
 *Assessor*: See Security Control Assessor.
+
 *Assurance*: Measure of confidence that the security features,[CNSSI 4009] practices, procedures, and architecture of an information system accurately mediates and enforces the security policy.
 *[NIST SP 800-53]*: Grounds for confidence that the set of intended security controls in an information system are effective in their application.
 *Assurance Case [Software Engineering Institute, Carnegie Mellon University]*: A structured set of arguments and a body of evidence showing that an information system satisfies specific  claims with respect to a given quality attribute.
@@ -957,14 +959,14 @@ Advanced Persistent Threat - An adversary that possesses sophisticated levels of
 
 *Authenticity*: The property of being genuine and being able to be verified and trusted; confidence in the validity of a transmission, a message, or message originator. See Authentication.
 
-Authorization (to operate): The official management decision given by a senior organizational official to authorize operation of an information system and to explicitly accept the risk to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the Nation based on the implementation of an agreed-upon set of security controls.
+*Authorization (to operate)*: The official management decision given by a senior organizational official to authorize operation of an information system and to explicitly accept the risk to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the Nation based on the implementation of an agreed-upon set of security controls.
 
 *Authorization Boundary [NIST SP 800-37]*: All components of an information system to be authorized for operation by an authorizing official and excludes separately authorized systems, to which the information system is connected.
 *Authorizing Official [CNSSI 4009]*: Senior (federal) official or executive with the authority to formally assume responsibility for operating an information system at an acceptable level of risk to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the Nation.
 
-Availability [44 U.S.C., Sec. 3542]: Ensuring timely and reliable access to and use of information.
+*Availability [44 U.S.C., Sec. 3542]*: Ensuring timely and reliable access to and use of information.
 
-Chief Information Officer [PL 104-106, Sec. 5125(b)]: Agency official responsible for:
+*Chief Information Officer [PL 104-106, Sec. 5125(b)]*: Agency official responsible for:
 
 - Providing advice and other assistance to the head of the executive agency and other senior management personnel of the agency to ensure that information technology is acquired and information resources are managed in a manner that is consistent with laws, Executive Orders, directives, policies, regulations, and priorities established by the head of the agency
 
@@ -999,7 +1001,7 @@ Course of Action (Risk Response): A time-phased or situation-dependent combinati
 *Individuals*:  An assessment object that includes people applying specifications, mechanisms, or activities.
 *Industrial Control System*:  An information system used to control industrial processes such as manufacturing, product handling, production, and distribution. Industrial control systems include supervisory control and data acquisition systems used to control geographically dispersed assets, as well as distributed control systems and smaller control systems using programmable logic controllers to control localized processes.
 *Information [CNSSI 4009]*:  Any communication or representation of knowledge such as facts, data, or opinions in any medium or form, including textual, numerical, graphic, cartographic, narrative, or audiovisual.
-\[FIPS 199\]: An instance of an information type.
+*\[FIPS 199\]*: An instance of an information type.
 
 *Information Owner [CNSSI 4009]*:   Official with statutory or operational authority for specified information and responsibility for establishing the controls for its generation, classification, collection, processing, dissemination, and disposal. See Information Steward.
 *Information Resources [44 U.S.C., Sec. 3502]*:  Information and related resources, such as personnel, equipment, funds, and information technology.
