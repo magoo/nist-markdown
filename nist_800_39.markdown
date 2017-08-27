@@ -1,5 +1,5 @@
 # NIST Special Publication 800-39
-> This version is heavily edited for markdown formatting. See [README.](readme.md)
+> This version is heavily edited for markdown formatting. See [README.](README.md)
 
 # Chapter One
 
