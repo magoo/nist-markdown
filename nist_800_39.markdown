@@ -66,29 +66,28 @@ The concepts and principles contained in this publication are intended to implem
 The remainder of this special publication is organized as follows:
 
 - Chapter Two describes:
--  the components of risk management;
--  the multitiered risk management approach;
--  risk management at the organization level (Tier 1);
--  risk management at the mission/business process level (Tier 2);
--  risk management at the information system level (Tier 3);
--  risk related to trust and trustworthiness;
--  the effects of organizational culture on risk; and (viii) relationships among key risk management concepts.
+- The components of risk management;
+- The multitiered risk management approach;
+- Risk management at the organization level (Tier 1);
+- Risk management at the mission/business process level (Tier 2);
+- Risk management at the information system level (Tier 3);
+- Risk related to trust and trustworthiness;
+- The effects of organizational culture on risk; and (viii) relationships among key risk management concepts.
 - Chapter Three describes a life cycle-based process for managing information security risk including:
--  a general overview of the risk management process;
--  how organizations establish the context for risk-based decisions;
--  how organizations assess risk;
--  how organizations respond to risk; and
--  how organizations monitor risk over time.
+- A general overview of the risk management process;
+- How organizations establish the context for risk-based decisions;
+- How organizations assess risk;
+- How organizations respond to risk; and
+- How organizations monitor risk over time.
 - Supporting appendices provide additional risk management information including:
--
-general references;
--  definitions and terms;
--  acronyms;
--  roles and responsibilities;
+- General references;
+- Definitions and terms;
+- Acronyms;
+- Roles and responsibilities;
 
--  risk management process tasks;
--  governance models;
--  trust models; and (viii) risk response strategies.
+- Risk management process tasks;
+- Governance models;
+- Trust models; and (viii) risk response strategies.
 
 # Chapter Two
 
@@ -96,54 +95,52 @@ general references;
 
 
 This chapter describes the fundamental concepts associated with managing information security risk across an organization including:
--  the components of risk management;
--
-the multitiered risk management approach;
--  risk management at Tier 1 (organization level);
--  risk management at Tier 2 (mission/business process level);
--  risk management at Tier 3 (information system level);
--  risk related to trust and trustworthiness;
--  the effects of organizational culture on risk; and (viii) the relationships among key risk management concepts.
+- The components of risk management;
+- The multitiered risk management approach;
+- Risk management at Tier 1 (organization level);
+- Risk management at Tier 2 (mission/business process level);
+- Risk management at Tier 3 (information system level);
+- Risk related to trust and trustworthiness;
+- The effects of organizational culture on risk; and (viii) the relationships among key risk management concepts.
 
 ### Components of Risk Management
 
 Managing risk is a complex, multifaceted activity that requires the involvement of the entire organization—from senior leaders/executives providing the strategic vision and top-level goals and objectives for the organization; to mid-level leaders planning, executing, and managing projects; to individuals on the front lines operating the information systems supporting the organization’s missions/business functions. Risk management is a comprehensive process that requires organizations to:
--  frame risk (i.e., establish the context for risk-based decisions);
--
-assess risk;
--  respond to risk once determined; and
--  monitor risk on an ongoing basis using effective organizational communications and a feedback loop for continuous improvement in the risk-related activities of organizations. Risk management is carried out as a holistic, organizationwide activity that addresses risk from the strategic level to the tactical level, ensuring that riskbased decision making is integrated into every aspect of the organization. The following sections briefly describe each of the four risk management components.
+- Frame risk (i.e., establish the context for risk-based decisions);
+- Assess risk;
+- Respond to risk once determined; and
+- Monitor risk on an ongoing basis using effective organizational communications and a feedback loop for continuous improvement in the risk-related activities of organizations. Risk management is carried out as a holistic, organizationwide activity that addresses risk from the strategic level to the tactical level, ensuring that riskbased decision making is integrated into every aspect of the organization. The following sections briefly describe each of the four risk management components.
 The first component of risk management addresses how organizations frame risk or establish a risk context—that is, describing the environment in which risk-based decisions are made. The purpose of the risk framing component is to produce a risk management strategy that addresses how organizations intend to assess risk, respond to risk, and monitor risk—making explicit and transparent the risk perceptions that organizations routinely use in making both investment and operational decisions. The risk frame establishes a foundation for managing risk and delineates the boundaries for risk-based decisions within organizations. Establishing a realistic and credible risk frame requires that organizations identify:
--  risk assumptions (e.g., assumptions about the threats, vulnerabilities, consequences/impact, and likelihood of occurrence that affect how risk is assessed, responded to, and monitored over time);
--  risk constraints (e.g., constraints on the risk assessment, response, and monitoring alternatives under consideration);
--  risk tolerance (e.g., levels of risk, types of risk, and degree of risk uncertainty that are acceptable); and
--  priorities and trade-offs (e.g., the relative importance of missions/business functions, trade-offs among different types of risk that organizations face, time frames in which organizations must address risk, and any factors of uncertainty that organizations consider in risk responses). The risk framing component and the associated risk management strategy also include any strategic-level decisions on how risk to organizational operations and assets, individuals, other organizations, and the Nation, is to be managed by senior leaders/executives.
+- Risk assumptions (e.g., assumptions about the threats, vulnerabilities, consequences/impact, and likelihood of occurrence that affect how risk is assessed, responded to, and monitored over time);
+- Risk constraints (e.g., constraints on the risk assessment, response, and monitoring alternatives under consideration);
+- Risk tolerance (e.g., levels of risk, types of risk, and degree of risk uncertainty that are acceptable); and
+- Priorities and trade-offs (e.g., the relative importance of missions/business functions, trade-offs among different types of risk that organizations face, time frames in which organizations must address risk, and any factors of uncertainty that organizations consider in risk responses). The risk framing component and the associated risk management strategy also include any strategic-level decisions on how risk to organizational operations and assets, individuals, other organizations, and the Nation, is to be managed by senior leaders/executives.
 
 The second component of risk management addresses how organizations assess risk within the context of the organizational risk frame. The purpose of the risk assessment component is to identify:
--  threats to organizations (i.e., operations, assets, or individuals) or threats directed through organizations against other organizations or the Nation;
--  vulnerabilities internal and external to organizations
--  the harm (i.e., consequences/impact) to organizations that may occur given the potential for threats exploiting vulnerabilities; and
--  the likelihood that harm will occur. The end result is a determination of risk (i.e., the degree of harm and likelihood of harm occurring). To support the risk assessment component, organizations identify:
--  the tools, techniques, and methodologies that are used to assess risk;
--  the assumptions related to risk assessments;
--  the constraints that may affect risk assessments;
--  roles and responsibilities;
+- Threats to organizations (i.e., operations, assets, or individuals) or threats directed through organizations against other organizations or the Nation;
+- Vulnerabilities internal and external to organizations
+- The harm (i.e., consequences/impact) to organizations that may occur given the potential for threats exploiting vulnerabilities; and
+- The likelihood that harm will occur. The end result is a determination of risk (i.e., the degree of harm and likelihood of harm occurring). To support the risk assessment component, organizations identify:
+- The tools, techniques, and methodologies that are used to assess risk;
+- The assumptions related to risk assessments;
+- The constraints that may affect risk assessments;
+- Roles and responsibilities;
 
--  how risk assessment information is collected, processed, and communicated throughout organizations;
--  how risk assessments are conducted within organizations;
--  the frequency of risk assessments; and (viii) how threat information is obtained (i.e., sources and methods).
+- How risk assessment information is collected, processed, and communicated throughout organizations;
+- How risk assessments are conducted within organizations;
+- The frequency of risk assessments; and (viii) how threat information is obtained (i.e., sources and methods).
 The third component of risk management addresses how organizations respond to risk once that risk is determined based on the results of risk assessments. The purpose of the risk response component is to provide a consistent, organization-wide, response to risk in accordance with the organizational risk frame by:
--  developing alternative courses of action for responding to risk;
+- Developing alternative courses of action for responding to risk;
 
--  evaluating the alternative courses of action;
--  determining appropriate courses of action consistent with organizational risk tolerance; and
--  implementing risk responses based on selected courses of action. To support the risk response component, organizations describe the types of risk responses that can be implemented (i.e., accepting, avoiding, mitigating, sharing, or transferring risk). Organizations also identify the tools, techniques, and methodologies used to develop courses of action for responding to risk, how courses of action are evaluated, and how risk responses are communicated across organizations and as appropriate, to external entities
+- Evaluating the alternative courses of action;
+- Determining appropriate courses of action consistent with organizational risk tolerance; and
+- Implementing risk responses based on selected courses of action. To support the risk response component, organizations describe the types of risk responses that can be implemented (i.e., accepting, avoiding, mitigating, sharing, or transferring risk). Organizations also identify the tools, techniques, and methodologies used to develop courses of action for responding to risk, how courses of action are evaluated, and how risk responses are communicated across organizations and as appropriate, to external entities
 (e.g., external service providers, supply chain partners).15
 The fourth component of risk management addresses how organizations monitor risk over time.
 The purpose of the risk monitoring component is to:
--  verify that planned risk response measures are implemented and information security requirements derived from/traceable to organizational missions/business functions, federal legislation, directives, regulations, policies, and standards, and guidelines, are satisfied;
--  determine the ongoing effectiveness of risk response measures following implementation; and
--  identify risk-impacting changes to organizational information systems and the environments in which the systems operate. To support the risk monitoring component, organizations describe how compliance is verified and how the ongoing effectiveness of risk responses is determined (e.g., the types of tools, techniques, and methodologies used to determine the sufficiency/correctness of risk responses and if risk mitigation measures are implemented correctly, operating as intended, and producing the desired effect with regard to reducing risk). In addition, organizations describe how changes that may impact the ongoing effectiveness of risk responses are monitored.
+- Verify that planned risk response measures are implemented and information security requirements derived from/traceable to organizational missions/business functions, federal legislation, directives, regulations, policies, and standards, and guidelines, are satisfied;
+- Determine the ongoing effectiveness of risk response measures following implementation; and
+- Identify risk-impacting changes to organizational information systems and the environments in which the systems operate. To support the risk monitoring component, organizations describe how compliance is verified and how the ongoing effectiveness of risk responses is determined (e.g., the types of tools, techniques, and methodologies used to determine the sufficiency/correctness of risk responses and if risk mitigation measures are implemented correctly, operating as intended, and producing the desired effect with regard to reducing risk). In addition, organizations describe how changes that may impact the ongoing effectiveness of risk responses are monitored.
 
 As indicated in the four components of risk management described above, organizations also consider external risk relationships, as appropriate. Organizations identify external entities with which there is an actual or potential risk relationship (i.e., organizations which could impose risks on, transfer risks to, or communicate risks to other organizations, as well as those to which organizations could impose, transfer, or communicate risks). External risk relationships include, for example, suppliers, customers or served populations, mission/business partners, and/or service providers. For organizations dealing with advanced persistent threats (i.e., a long-term pattern of targeted, sophisticated attacks) the risk posed by external partners (especially suppliers in the supply chain) may become more pronounced. Organizations establish practices for sharing riskrelated information (e.g., threat and vulnerability information) with external entities, including those with which the organizations have a risk relationship as well as those which could supply or receive risk-related information (e.g., Information Sharing and Analysis Centers [ISAC], Computer Emergency Response Teams [CERT]).
 Figure 1 illustrates the risk management process and the information and communications flows among components. The black arrows represent the primary flows within the risk management process with risk framing informing all the sequential step-by-step set of activities moving from risk assessment to risk response to risk monitoring. For example, one of the primary outputs from the risk framing component is a description of the sources and methods that organizations use in acquiring threat information (e.g., open source, classified intelligence community reports). The output regarding threat information is a primary input to the risk assessment component and is communicated accordingly to that component. Another example is illustrated in the primary output from the risk assessment component—that is, a determination of risk. The output from the risk assessment component is communicated to the risk response component and is received as a primary input for that component. Another primary input to the risk response component is an output from the risk framing component—the risk management strategy that defines how the organization should respond to risk. Together, these inputs, along with any additional inputs, are used by decision makers when selecting among potential courses of action for risk responses.
@@ -153,46 +150,44 @@ The bidirectional nature of the arrows indicates that the information and commun
 ### 2.2 Multitiered Risk Management
 
 To integrate the risk management process throughout the organization, a three-tiered approach is employed that addresses risk at the:
--  organization level;
--  mission/business process level; and
+- Organization level;
+- Mission/business process level; and
 
--  information system level. The risk management process is carried out seamlessly across the three tiers with the overall objective of continuous improvement in the organization’s risk-related activities and effective inter-tier and intra-tier communication among all stakeholders having a shared interest in the mission/business success of the organization. Figure 2 illustrates the three tiered approach to risk management along with some of its key characteristics.
+- Information system level. The risk management process is carried out seamlessly across the three tiers with the overall objective of continuous improvement in the organization’s risk-related activities and effective inter-tier and intra-tier communication among all stakeholders having a shared interest in the mission/business success of the organization. Figure 2 illustrates the three tiered approach to risk management along with some of its key characteristics.
 
 Tier 1 addresses risk from an organizational perspective. Tier 1 implements the first component of risk management (i.e., risk framing), providing the context for all risk management activities carried out by organizations. Tier 1 risk management activities directly affect the activities carried out at Tiers 2 and 3. For example, the missions and business functions defined at Tier 1 influence the design and development of the mission/business processes created at Tier 2 to carry out those missions/business functions. Tier 1 provides a prioritization of missions/business functions which in turn drives investment strategies and funding decisions, thus, affecting the development of enterprise architecture (including embedded information security architecture) at Tier 2 and the allocations and deployment of management, operational, and technical security controls at Tier 3.
 
 Other examples of Tier 1 activities that affect Tier 2 and Tier 3 activities include the selection of common controls, the provision of guidance from the risk executive (function)17 to authorizing officials, and the establishment of the order of recovery for information systems supporting critical missions and business operations. Section 2.3 provides a more detailed description of the specific activities associated with Tier 1.
 
 Tier 2 addresses risk from a mission/business process perspective and is informed by the risk context, risk decisions, and risk activities at Tier 1. Tier 2 risk management activities include:
--
-defining the mission/business processes needed to support the missions and business functions of organizations;
--  prioritizing the mission/business processes with respect to the strategic goals and objectives of organizations;
--  defining the types of information needed to successfully execute the mission/business processes, the criticality/sensitivity of the information, and the information flows both internal and external to organizations;
--  incorporating information security requirements into the mission/business processes; and
--  establishing an enterprise architecture with embedded information security architecture that promotes cost-effective and efficient information technology solutions consistent with the strategic goals and objectives of the organization and measures of performance. Tier 2 activities directly affect the activities carried out at Tier 3. For example, the information security architecture portion of the enterprise architecture developed at Tier 2 influences and guides the allocation of information protection needs which, in turn, influences and guides the allocation of the security controls to specific components of organizational information systems at Tier 3. Enterprise architecture decisions at Tier 2 affect the design of information systems at Tier 3 including the types of information technologies acceptable for use in developing those systems. The activities carried out at Tier 2
+- Defining the mission/business processes needed to support the missions and business functions of organizations;
+- Prioritizing the mission/business processes with respect to the strategic goals and objectives of organizations;
+- Defining the types of information needed to successfully execute the mission/business processes, the criticality/sensitivity of the information, and the information flows both internal and external to organizations;
+- Incorporating information security requirements into the mission/business processes; and
+- Establishing an enterprise architecture with embedded information security architecture that promotes cost-effective and efficient information technology solutions consistent with the strategic goals and objectives of the organization and measures of performance. Tier 2 activities directly affect the activities carried out at Tier 3. For example, the information security architecture portion of the enterprise architecture developed at Tier 2 influences and guides the allocation of information protection needs which, in turn, influences and guides the allocation of the security controls to specific components of organizational information systems at Tier 3. Enterprise architecture decisions at Tier 2 affect the design of information systems at Tier 3 including the types of information technologies acceptable for use in developing those systems. The activities carried out at Tier 2
 can also provide useful feedback to Tier 1, possibly resulting in revisions to the organizational risk frame or affecting risk management activities carried out at Tier 1, for example those performed by the risk executive (function). Section 2.4 provides a more detailed description of the specific activities associated with Tier 2.
 Tier 3 addresses risk from an information system perspective and is guided by the risk context, risk decisions and risk activities at Tiers 1 and 2. Tier 3 risk management activities include:
--
-categorizing organizational information systems;
--  allocating security controls to organizational information systems and the environments in which those systems operate consistent with the organization’s established enterprise architecture and embedded information security architecture; and
--  managing the selection, implementation, assessment, authorization, and ongoing monitoring of allocated security controls as part of a disciplined and structured system development life cycle process implemented across the organization. At Tier 3, information system owners, common control providers, system and security engineers, and information system security officers make risk-based decisions regarding the implementation, operation, and monitoring of organizational information systems. Based on these day-to-day operational riskbased decisions, authorizing officials make follow-on risk-based decisions on whether or not the information systems are initially authorized to operate within the designated environments of operation or continue to receive authorization to operate on an ongoing basis. These ongoing riskbased decisions are informed by the risk management process with guidance from the risk executive (function) and the various architectural considerations supporting the mission/business processes. In addition, the activities at Tier 3 provide essential feedback to Tiers 1 and 2. New vulnerabilities discovered in an organizational information system, for example, may have systemic implications that extend organization-wide. Those same vulnerabilities may trigger changes to the enterprise architecture and embedded information security architecture or may require an adjustment to the organizational risk tolerance. Section 2.5 provides a more detailed description of the specific activities associated with Tier 3.
+- Categorizing organizational information systems;
+- Allocating security controls to organizational information systems and the environments in which those systems operate consistent with the organization’s established enterprise architecture and embedded information security architecture; and
+- Managing the selection, implementation, assessment, authorization, and ongoing monitoring of allocated security controls as part of a disciplined and structured system development life cycle process implemented across the organization. At Tier 3, information system owners, common control providers, system and security engineers, and information system security officers make risk-based decisions regarding the implementation, operation, and monitoring of organizational information systems. Based on these day-to-day operational riskbased decisions, authorizing officials make follow-on risk-based decisions on whether or not the information systems are initially authorized to operate within the designated environments of operation or continue to receive authorization to operate on an ongoing basis. These ongoing riskbased decisions are informed by the risk management process with guidance from the risk executive (function) and the various architectural considerations supporting the mission/business processes. In addition, the activities at Tier 3 provide essential feedback to Tiers 1 and 2. New vulnerabilities discovered in an organizational information system, for example, may have systemic implications that extend organization-wide. Those same vulnerabilities may trigger changes to the enterprise architecture and embedded information security architecture or may require an adjustment to the organizational risk tolerance. Section 2.5 provides a more detailed description of the specific activities associated with Tier 3.
 
 > Since mission and business success in organizations depends on information systems, those systems must be dependable. To be dependable in the face of sophisticated threats, the information systems must be used wisely in accordance with the degree of protection and resilience achieved.
 
 ### 2.3 TIER ONE—ORGANIZATION VIEW
 
 Tier 1 addresses risk from an organizational perspective by establishing and implementing governance structures that are consistent with the strategic goals and objectives of organizations and the requirements defined by federal laws, directives, policies, regulations, standards, and missions/business functions. Governance structures provide oversight for the risk management activities conducted by organizations and include:
--  the establishment and implementation of a risk executive (function);
--  the establishment of the organization’s risk management strategy including the determination of risk tolerance; and
--  the development and execution of organization-wide investment strategies for information resources and information security.
+- The establishment and implementation of a risk executive (function);
+- The establishment of the organization’s risk management strategy including the determination of risk tolerance; and
+- The development and execution of organization-wide investment strategies for information resources and information security.
 
 #### 2.3.1 Governance
 
 
 In general, governance is the set of responsibilities and practices exercised by those responsible for an organization (e.g., the board of directors and executive management in a corporation, the head of a federal agency) with the express goal of:
--  providing strategic direction;
--  ensuring that organizational mission and business objectives are achieved;
--  ascertaining that risks are managed appropriately; and
--  verifying that the organization’s resources are used responsibly.
+- Providing strategic direction;
+- Ensuring that organizational mission and business objectives are achieved;
+- Ascertaining that risks are managed appropriately; and
+- Verifying that the organization’s resources are used responsibly.
 Risks and resources can be associated with different organizational sectors (e.g., legal, finance, information technology, regulatory compliance, information security). Different sectors require specialized expertise in order to manage the risks associated with that sector. Thus, governance within organizations frequently is organized by sector. The five outcomes of governance related to organization-wide risk management are:
 
 - Strategic alignment of risk management decisions with missions and business functions consistent with organizational goals and objectives;
@@ -201,11 +196,10 @@ Risks and resources can be associated with different organizational sectors (e.g
 - Performance-based outcomes by measuring, monitoring, and reporting risk management metrics to ensure that organizational goals and objectives are achieved; and
 - Delivered value by optimizing risk management investments in support of organizational objectives.
 As part of organizational governance, senior leaders/executives in consultation and collaboration with the risk executive (function), determine:
--  the types of risk management decisions that are reserved for specific senior leadership roles (e.g., heads of agencies or chief executive officers, chief financial officers, chief information officers, chief information security officers)
--  the types of risk management decisions that are deemed to be organization-wide and the types of decisions that can be delegated to subordinate organizations or to other roles in the organization
+- The types of risk management decisions that are reserved for specific senior leadership roles (e.g., heads of agencies or chief executive officers, chief financial officers, chief information officers, chief information security officers)
+- The types of risk management decisions that are deemed to be organization-wide and the types of decisions that can be delegated to subordinate organizations or to other roles in the organization
 (e.g., systems and security engineers, mission/business owners, enterprise architects, information security architects, common infrastructure or service providers, authorizing officials); and
--
-how risk management decisions will be communicated to and by the risk executive (function).
+- How risk management decisions will be communicated to and by the risk executive (function).
 Three different types of governance models (i.e., centralized, decentralized, and hybrid) are described in Appendix F. Regardless of the governance model(s) employed, clear assignment and accountability for accepting risk is essential for effective risk management.
 
 > Strong governance is the best indicator of senior leadership commitment to effective, consistent risk management across the organization to achieve ongoing mission/business success.
@@ -235,9 +229,9 @@ An organizational risk management strategy, one of the key outputs of risk frami
 An important Tier 1 risk management activity and also part of risk framing, is the determination of risk tolerance. Risk tolerance is the level of risk or degree of uncertainty that is acceptable to organizations and is a key element of the organizational risk frame. Risk tolerance affects all components of the risk management process—having a direct impact on the risk management decisions made by senior leaders/executives throughout the organization and providing important constraints on those decisions. For example, risk tolerance affects the nature and extent of risk management oversight implemented in organizations, the extent and rigor of risk assessments performed, and the content of organizational strategies for responding to risk. With regard to risk assessments, more risk-tolerant organizations may be concerned only with those threats that peer organizations have experienced while less risk-tolerant organizations may expand the list to include those threats that are theoretically possible, but which have not been observed in operational environments. With regard to risk response, less risk-tolerant organizations are likely to require additional grounds for confidence in the effectiveness of selected safeguards and countermeasures or prefer safeguards and countermeasures that are more mature and have a proven track record. Such organizations may also decide to employ multiple safeguards and countermeasures from multiple sources (e.g., antivirus software at clients and servers that are provided by different vendors). Another example illustrating the impact of risk tolerance on risk response is that risk tolerance can also affect the organizational requirements for trustworthiness provided by specific information technologies. Two organizations may choose the same information technologies, but their relative degree of risk tolerance may impact the degree of assessment required prior to deployment.
 There is no correct level of organizational risk tolerance. Rather, the degree of risk tolerance is:
 
--  generally indicative of organizational culture;
--  potentially different for different types of losses/compromises; and
--  highly influenced by the individual subjective risk tolerance of senior leaders/executives. Yet, the ramifications of risk decisions based on risk tolerance are potentially profound, with less risk-tolerant organizations perhaps failing to achieve needed mission/business capabilities in order to avoid what appears to be unacceptable risk; while more risk-tolerant organizations may focus on near-term mission/business efficiencies at the expense of setting themselves up for future failure. It is important that organizations exercise due diligence in determining risk tolerance—recognizing how fundamental this decision is to the effectiveness of the risk management program.
+- Generally indicative of organizational culture;
+- Potentially different for different types of losses/compromises; and
+- Highly influenced by the individual subjective risk tolerance of senior leaders/executives. Yet, the ramifications of risk decisions based on risk tolerance are potentially profound, with less risk-tolerant organizations perhaps failing to achieve needed mission/business capabilities in order to avoid what appears to be unacceptable risk; while more risk-tolerant organizations may focus on near-term mission/business efficiencies at the expense of setting themselves up for future failure. It is important that organizations exercise due diligence in determining risk tolerance—recognizing how fundamental this decision is to the effectiveness of the risk management program.
 
 #### 2.3.4 Investment Strategies
 
@@ -268,9 +262,9 @@ Tier 2 addresses risk from a mission/business process perspective by designing, 
 
 The risk management activities at Tier 2 begin with the identification and establishment of riskaware mission/business processes to support the organizational missions and business functions.
 A risk-aware mission/business process is one that explicitly takes into account the likely risk such a process would cause if implemented. Risk aware processes are designed to manage risk in accordance with the risk management strategy defined at Tier 1 and explicitly account for risk when evaluating the mission/business activities and decisions at Tier 2.34 Implementing riskaware mission/business processes requires a thorough understanding of the organizational missions and business functions and the relationships among missions/business functions and supporting processes. This understanding is a prerequisite to building mission/business processes sufficiently resilient to withstand a wide variety of threats including routine and sophisticated cyber attacks, errors/accidents, and natural disasters. An important part of achieving risk-aware processes is the understanding of senior leaders/executives of:
--  the types of threat sources and threat events that can adversely affect the ability of organizations to successfully execute their missions/business functions);
--  the potential adverse impacts/consequences on organizational operations and assets, individuals, other organizations, or the Nation if the confidentiality, integrity, or availability of information or information systems used in a mission/business process is compromised; and
--  the likely resilience to such a compromise that can be achieved with a given mission/business process definition, applying realistic expectations for the resilience of information technology.
+- The types of threat sources and threat events that can adversely affect the ability of organizations to successfully execute their missions/business functions);
+- The potential adverse impacts/consequences on organizational operations and assets, individuals, other organizations, or the Nation if the confidentiality, integrity, or availability of information or information systems used in a mission/business process is compromised; and
+- The likely resilience to such a compromise that can be achieved with a given mission/business process definition, applying realistic expectations for the resilience of information technology.
 A key output from the Tier 2 definition of mission/business processes is the selected risk response strategy for these processes within the constraints defined in the risk management strategy. The risk response strategy includes identification of information protection needs and the allocation of those needs across components of the process (e.g., allocation to protections within information systems, protections in the operational environments of those systems, and allocation to alternate mission/business execution paths based on the potential for compromise).
 
 #### 2.4.2 Enterprise Architecture
@@ -348,9 +342,9 @@ Effectively addressing the risk associated with the growing dependence on extern
 The degree of trust that an organization places in external organizations can vary widely, ranging from those who are highly trusted (e.g., business partners in a joint venture that share a common business model and common goals) to those who are less trusted and may represent greater sources of risk (e.g., business partners in one endeavor who are also competitors or adversaries).
 The specifics of establishing and maintaining trust can differ from organization to organization based on mission/business requirements, the participants involved in the trust relationship, the criticality/sensitivity of the information being shared or the types of services being rendered, the history between the organizations, and the overall risk to the organizations participating in the relationship. Appendix G provides several trust models that organizations can use when dealing with external organizations.
 In many situations, the trust established between organizations may not allow a full spectrum of information sharing or a complete provision of services. When an organization determines that the trustworthiness of another organization does not permit the complete sharing of information or use of external services, the organization can:
--  mitigate risk, transfer risk, or share risk by employing one or more compensating controls;
--  accept a greater degree of risk; or
--  avoid risk by performing missions/business functions with reduced levels of functionality or possibly no functionality at all.
+- Mitigate risk, transfer risk, or share risk by employing one or more compensating controls;
+- Accept a greater degree of risk; or
+- Avoid risk by performing missions/business functions with reduced levels of functionality or possibly no functionality at all.
 
 > Explicit understanding and acceptance of the risk to an organization’s operations and assets, individuals, other organizations, and the Nation by senior leaders/executives (reflecting the organization’s risk tolerance) are made in accordance with the organization’s risk management strategy and a prerequisite for establishing trust relationships among organizations.
 
@@ -363,8 +357,8 @@ Security functionality can be obtained by employing within organizational inform
 Security assurance is a critical aspect in determining the trustworthiness of information systems.
 Assurance is the measure of confidence that the security features, practices, procedures, and architecture of an information system accurately mediates and enforces the security policy.
 Assurance is obtained by:
--  the actions taken by developers and implementers with regard to the design, development, implementation, and operation of the security functionality (i.e., security controls); and
--  the actions taken by assessors to determine the extent to which the functionality is implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security requirements for information systems and their environments of operation. Developers and implementers can increase the assurance in security functionality by employing well-defined security policies and policy models, structured and rigorous hardware and software development techniques, and sound system/security engineering principles.
+- The actions taken by developers and implementers with regard to the design, development, implementation, and operation of the security functionality (i.e., security controls); and
+- The actions taken by assessors to determine the extent to which the functionality is implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security requirements for information systems and their environments of operation. Developers and implementers can increase the assurance in security functionality by employing well-defined security policies and policy models, structured and rigorous hardware and software development techniques, and sound system/security engineering principles.
 Assurance for information technology products and systems is commonly based on the assessments conducted (and associated assessment evidence produced) during the initiation, acquisition/development, implementation, and operations/maintenance phases of the system development life cycle. For example, developmental evidence may include the techniques and methods used to design and develop security functionality. Operational evidence may include flaw reporting and remediation, the results of security incident reporting, and the results of ongoing security control monitoring. Independent assessments by qualified assessors may include analyses of the evidence as well as testing, inspections, and audits of the implementation of the selected security functionality.
 The concepts of assurance and trustworthiness are closely related. Assurance contributes to the trustworthiness determination relative to an information technology product or an information system. Developers/implementers of information technology products or systems may provide assurance evidence by generating appropriate artifacts (e.g., the results of independent testing and evaluation, design documentation, high-level or low-level specifications, source code analysis).
 Organizations using information technology products or systems may perform, or rely on others to perform, some form of assessment on the products or systems. Organizations may also have direct experience with the product or system, or may receive information about the performance of the product or system from third parties. Organizations typically evaluate all of the available assurance evidence, often applying different weighting factors as appropriate, to determine the trustworthiness of the product or system relative to the circumstances.
@@ -412,11 +406,11 @@ A major part of managing risk within organizations is identifying what the organ
 ## THE PROCESS - APPLYING RISK MANAGEMENT CONCEPTS ACROSS AN ORGANIZATION
 
 This chapter describes a process for managing information security risk including:
--  a general overview of the risk management process;
--  how organizations establish the context for risk-based decisions;
--  how organizations assess risk considering threats, vulnerabilities, likelihood, and consequences/impact;
--  how organizations respond to risk once determined; and
--  how organizations monitor risk over time with changing mission/business needs, operating environments, and supporting information systems . The risk management process, introduced in Chapter Two, is described in this chapter along with its applicability across the three tiers of risk management. Each of the steps in the risk management process (i.e., risk framing, risk assessment, risk response, and risk monitoring) is described in a structured manner focusing on the inputs or preconditions necessary to initiate the step, the specific activities that compose the step, and the outputs or post conditions resulting from the step. The effect of the risk concepts described in Chapter Two (e.g., risk tolerance, trust, and culture) are also discussed in the context of the risk management process and its multitiered application. Figure 4 illustrates the risk management process as applied across the tiers—organization, mission/business process, and information system. The bidirectional arrows in the figure indicate that the information and communication flows among the risk management components as well as the execution order of the components, may be flexible and respond to the dynamic nature of the risk management process as it is applied across all three tiers.
+- A general overview of the risk management process;
+- How organizations establish the context for risk-based decisions;
+- How organizations assess risk considering threats, vulnerabilities, likelihood, and consequences/impact;
+- How organizations respond to risk once determined; and
+- How organizations monitor risk over time with changing mission/business needs, operating environments, and supporting information systems . The risk management process, introduced in Chapter Two, is described in this chapter along with its applicability across the three tiers of risk management. Each of the steps in the risk management process (i.e., risk framing, risk assessment, risk response, and risk monitoring) is described in a structured manner focusing on the inputs or preconditions necessary to initiate the step, the specific activities that compose the step, and the outputs or post conditions resulting from the step. The effect of the risk concepts described in Chapter Two (e.g., risk tolerance, trust, and culture) are also discussed in the context of the risk management process and its multitiered application. Figure 4 illustrates the risk management process as applied across the tiers—organization, mission/business process, and information system. The bidirectional arrows in the figure indicate that the information and communication flows among the risk management components as well as the execution order of the components, may be flexible and respond to the dynamic nature of the risk management process as it is applied across all three tiers.
 
 The steps in the risk management process are not inherently sequential in nature. The steps are performed in different ways, depending on the particular tier where the step is applied and on prior activities related to each of the steps. What is consistent is that the outputs or post conditions from a particular risk management step directly impact one or more of the other risk management steps in the risk management process. Organizations have significant flexibility in how the risk management steps are performed (e.g., sequence, degree of rigor, formality, and thoroughness of application) and in how the results of each step are captured and shared—both internally and externally. Ultimately, the objective of applying the risk management process and associated riskrelated concepts is to develop a better understanding of information security risk in the context of the broader actions and decisions of organizations and in particular, with respect to organizational operations and assets, individuals, other organizations, and Nation.
 
@@ -433,8 +427,8 @@ The Risk Management Framework is the primary means for addressing risk at Tier 3
 ##### Inputs and Preconditions
 
 Risk framing is the set of assumptions, constraints, risk tolerances, and priorities/trade-offs that shape an organization’s approach for managing risk. Risk framing is informed by the organizational governance structure, financial posture, legal/regulatory environment, investment strategy, culture, and trust relationships established within and among organizations. Inputs to the risk framing step include, for example, laws, policies, directives, regulations, contractual relationships, and financial limitations which impose constraints on potential risk decisions by organizations. Other inputs to risk framing can include, for example, specific information from organizations to make explicit:
--  the identification of trust relationships and trust models (see Appendix G) that derive from existing memoranda of understanding or agreement (MOUs or MOAs); and
--  the identification of the governance structures and processes that indicate the extent of or limits on decision-making authority for risk decisions that can be delegated to mission or business owners. The key precondition for risk framing is senior leadership commitment to defining an explicit risk management strategy and holding mission/business owners responsible and accountable for implementing the strategy.
+- The identification of trust relationships and trust models (see Appendix G) that derive from existing memoranda of understanding or agreement (MOUs or MOAs); and
+- The identification of the governance structures and processes that indicate the extent of or limits on decision-making authority for risk decisions that can be delegated to mission or business owners. The key precondition for risk framing is senior leadership commitment to defining an explicit risk management strategy and holding mission/business owners responsible and accountable for implementing the strategy.
 The guidance produced by the risk framing step, and the underlying assumptions, constraints, risk tolerances, and priorities/trade-offs used to develop that guidance, may be inappropriate to one or more organizational missions or business functions. In addition, the risk environment has the potential to change over time. Thus, the risk management process allows for feedback to the risk framing step from the other steps in the process, as follows:
 - Risk assessment: Information generated during the risk assessment may influence the original assumptions, change the constraints regarding appropriate risk responses, identify additional tradeoffs, or shift priorities. For example, the characterization of adversaries (including representative tactics, techniques, and procedures), or sources of vulnerability information may not be consistent with how some organizations conduct their missions/business functions; a source of threat/vulnerability information that is useful for one mission/business function could, in fact, be useful for others; or organizational guidance on assessing risk under uncertainty may be too onerous, or insufficiently defined, to be useful for one or more mission/business functions.
 - Risk response: Information uncovered during the development of alternative courses of action could reveal that risk framing has removed or failed to uncover some potentially high-payoff alternatives from consideration. This situation may challenge organizations to revisit original assumptions or investigate ways to change established constraints.
@@ -449,44 +443,43 @@ Monitoring of the operational environment could reveal changes in the threat lan
 
 Supplemental Guidance: Organizations that identify, characterize, and provide representative examples of threat sources, vulnerabilities, consequences/impacts, and likelihood determinations promote a common terminology and frame of reference for comparing and addressing risks across disparate mission/business areas. Organizations can also select appropriate risk assessment methodologies, depending on organizational governance, culture, and how divergent the missions/business functions are within the respective organizations. For example, organizations with highly centralized governance structures might elect to use a single risk assessment methodology. Organizations with hybrid governance structures might select multiple risk assessment methodologies for Tier 2, and an additional risk assessment methodology for Tier 1 that assimilates and harmonizes the findings, results, and observations of the Tier 2 risk assessments. Alternatively, when autonomy and diversity are central to the organizational culture, organizations could define requirements for the degree of rigor and the form of results, leaving the choice of specific risk assessment methodologies to mission/business owners.
 
-####### Threat Sources
+*Threat Sources*
 
 Threat sources cause events having undesirable consequences or adverse impacts on organizational operations and assets, individuals, other organizations, and the Nation. Threat sources include:
--  hostile cyber/physical attacks;
--
-human errors of omission or commission; or
--  natural and man-made disasters. For threats due to hostile cyber attacks or physical attacks, organizations provide a succinct characterization of the types of tactics, techniques, and procedures employed by adversaries that are to be addressed by safeguards and countermeasures (i.e., security controls)
+- Hostile cyber/physical attacks;
+- Human errors of omission or commission; or
+- Natural and man-made disasters. For threats due to hostile cyber attacks or physical attacks, organizations provide a succinct characterization of the types of tactics, techniques, and procedures employed by adversaries that are to be addressed by safeguards and countermeasures (i.e., security controls)
 deployed at Tier 1 (organization level), at Tier 2 (mission/business process level), and at Tier 3 (information system level)—making explicit the types of threat-sources that are to be addressed as well as making explicit those not being addressed by the safeguards/countermeasures. Adversaries can be characterized in terms of threat levels (based on capabilities, intentions, and targeting) or with additional detail. Organizations make explicit any assumptions about threat source targeting, intentions, and capabilities. Next, organizations identify a set of representative threat events.
 This set of threat events provides guidance on the level of detail with which the events are described. Organizations also identify conditions for when to consider threat events in risk assessments. For example, organizations can restrict risk assessments to those threat events that have actually been observed (either internally or externally by partners or peer organizations) or alternatively, specify that threat events described by credible researchers can also be considered.
 Finally, organizations identify the sources of threat information found to be credible and useful (e.g., sector Information Sharing and Analysis Centers [ISACs]). Trust relationships determine from which partners, suppliers, and customers, threat information is obtained as well as the expectations placed on those partners, suppliers and customers in subsequent risk management process steps. By establishing common starting points for identifying threat sources at Tier 1, organizations provide a basis for aggregating and consolidating the results of risk assessments at Tier 2
 (including risk assessments conducted for coalitions of missions and business areas or for common control providers)
 into an overall assessment of risk to the organization as a whole. At Tier 2, mission/business owners may identify additional sources of threat information specific to organizational missions or business functions. These sources are typically based on:
--  a particular business or critical infrastructure sector (e.g., sector ISAC);
--  operating environments specific to the missions or lines of business (e.g., maritime, airspace); and
--  external dependencies
+- A particular business or critical infrastructure sector (e.g., sector ISAC);
+- Operating environments specific to the missions or lines of business (e.g., maritime, airspace); and
+- External dependencies
 (e.g., GPS or satellite communications). The characterization of threat sources are refined for the missions/business functions established by organizations—with the results being that some threat sources might not be of concern, while others could be described in greater detail. At Tier 3, program managers, information system owners, and common control providers consider the phase in the system development life cycle to determine the level of detail with which threats can be considered. Greater threat specificity tends to be available later in the life cycle.
 
 #######Vulnerabilities
 
 Organizations identify approaches used to characterize vulnerabilities, consistent with the characterization of threat sources and events. Vulnerabilities can be associated with exploitable weakness or deficiencies in:
--  the hardware, software, or firmware components that compose organizational information systems (or the security controls employed within or inherited by those systems;
--  mission/business processes and enterprise architectures (including embedded information security architectures) implemented by organizations; or
--  organizational governance structures or processes. Vulnerabilities can also be associated with the susceptibility of organizations to adverse impacts, consequences, or harm from external sources (e.g., physical destruction of non-owned infrastructure such as electric power grids). Organizations provide guidance regarding how to consider dependencies on external organizations as vulnerabilities in the risk assessments conducted. The guidance can be informed by the types of trust relationships established by organizations with external providers. Organizations identify the degree of specificity with which vulnerabilities are described (e.g., general terms, Common Vulnerability Enumeration [CVE] identifiers, identification of weak/deficient security controls), giving some representative examples corresponding to representative threats.
+- The hardware, software, or firmware components that compose organizational information systems (or the security controls employed within or inherited by those systems;
+- Mission/business processes and enterprise architectures (including embedded information security architectures) implemented by organizations; or
+- Organizational governance structures or processes. Vulnerabilities can also be associated with the susceptibility of organizations to adverse impacts, consequences, or harm from external sources (e.g., physical destruction of non-owned infrastructure such as electric power grids). Organizations provide guidance regarding how to consider dependencies on external organizations as vulnerabilities in the risk assessments conducted. The guidance can be informed by the types of trust relationships established by organizations with external providers. Organizations identify the degree of specificity with which vulnerabilities are described (e.g., general terms, Common Vulnerability Enumeration [CVE] identifiers, identification of weak/deficient security controls), giving some representative examples corresponding to representative threats.
 Organizational governance structures and processes determine how vulnerability information is shared across organizations. Organizations may also identify sources of vulnerability information found to be credible and useful. At Tier 2, mission/business owners may choose to identify additional sources of vulnerability information (e.g., a sector ISAC for information about vulnerabilities specific to that sector). At Tier 3, program managers, information system owners, and common control providers consider the phase in the system development life cycle—and in particular, the technologies included in the system – to determine the level of detail with which vulnerabilities can be considered.
 Organizations make explicit any assumptions about the degree of organizational or information system vulnerability to specific threat sources (by name or by type).
 
-####### Consequences and Impact
+*Consequences and Impact*
 
 Organizations provide guidance on how to assess impacts to organizational operations (i.e., mission, functions, image, and reputation), organizational assets, individuals, other organizations, and the Nation (e.g., using FIPS 199, CNSS Instruction 1253, or a more granular approach). Organizations can experience the consequences/impact of adverse events at the information system level (e.g., failing to perform as required), at the mission/business process level (e.g., failing to fully meet mission/business objectives), and at the organizational level (e.g., failing to comply with legal or regulatory requirements, damaging reputation or relationships, or undermining long-term viability). Organizations determine at Tier 1, which consequences and types of impact are to be considered at Tier 2, the mission/business process level. An adverse event can have multiple consequences and different types of impact, at different levels, and in different time frames. For example, the exposure of sensitive information (e.g., personally identifiable information)
 by a particular mission/business area (e.g., human resources) can have organization-wide consequences and adverse impact with regard to reputation damage; the information system consequence/impact for multiple systems of an attacker more easily overcoming identification and authentication security controls; and the mission/business process consequence/impact (for one or more mission/business areas) of an attacker falsifying information on which future decisions are based. To ensure consistency, organizations determine at Tier 1, how consequences/impacts experienced in different time frames are to be assessed. At Tier 2, mission/business owners may amplify organizational guidance, as appropriate. The types of consequences and impact considered in risk determinations are identified to provide a basis for determining, aggregating, and/or consolidating risk results and to facilitate risk communication. Organizations also provide guidance to Tier 2 and Tier 3 with regard to the extent that risk assessments are to consider the risk to other organizations and the Nation. Organization make explicit any assumptions about the degree of impact/consequences related to specific threat sources (by name or by type) or through specific vulnerabilities (individually or by type).
 
-####### Likelihood
+*Likelihood*
 
 Organizations can employ a variety of approaches for determining the likelihood of threat events. Some organizations treat the likelihood that a threat event will occur and the likelihood that, if it occurs, it will result in adverse effects as separate factors, while other organizations assess threat likelihood as a combination of these factors. In addition, some organizations prefer quantitative risk assessments while other organizations, particularly when the assessment involves a high degree of uncertainty, prefer qualitative risk assessments. Likelihood determinations can be based on either threat assumptions or actual threat data (e.g., historical data on cyber attacks, historical data on earthquakes, or specific information on adversary capabilities, intentions, and targeting). When specific and credible threat data is available
 (e.g., types of cyber attacks, cyber attack trends, frequencies of attacks), organizations can use the empirical data and statistical analyses to determine more specific probabilities of threat events occurring. Organizations select a method consistent with organizational culture and risk tolerance. Organizations can also make explicit assumptions concerning the likelihood that a threat event will result in adverse effects as follows:
--  worst case (i.e., attack will be successful unless strong, objective reasons to presume otherwise);
--  best case (i.e., attack will not be successful unless specific, credible information to the contrary); or
--  something in between best and worst cases (e.g., the most probable case).
+- Worst case (i.e., attack will be successful unless strong, objective reasons to presume otherwise);
+- Best case (i.e., attack will not be successful unless specific, credible information to the contrary); or
+- Something in between best and worst cases (e.g., the most probable case).
 Organizations document any overarching assumptions. Organizations can use empirical data and statistical analyses to help inform any of the approaches used to determine the likelihood of threat events occurring. Organizations select a method consistent with organizational culture, understanding of the operational environment, and risk tolerance.
 
 ###### RISK CONSTRAINTS
@@ -510,12 +503,12 @@ Organizations also define tolerance for other types of organizational and operat
 1, organizations make trade-offs among and establish priorities for responding to such risks. Organizations tend to have multiple priorities that at times conflict, which generates potential risk. Approaches employed by organizations for managing portfolios of risks reflect organizational culture, risk tolerance, as well as risk-related assumptions and constraints. These approaches are typically embodied in the strategic plans, policies, and roadmaps of organizations which may indicate preferences for different forms of risk response. For example, organizations may be willing to accept short-term risk of slightly degraded operations to achieve long-term reduction in information security risk.
 However, this trade-off could be unacceptable for one particularly critical mission/business function (e.g., real-time requirements in many industrial/process control systems). For that high-priority area, a different approach to improving security may be required including the application of compensating security controls.
 Outputs and Post Conditions The output of the risk framing step is the risk management strategy that identifies how organizations intend to assess, respond to, and monitor risk over time. The framing step also produces a set of organizational policies, procedures, standards, guidance, and resources covering the following topics:
--  scope of the organizational risk management process (e.g., organizational entities covered; mission/business functions affected; how risk management activities are applied within the risk management tiers);
--  risk assessment guidance including, for example, the characterization of threat sources, sources of threat information, representative threat events (in particular, adversary tactics, techniques, and procedures), when to consider and how to evaluate threats, sources of vulnerability information, risk assessment methodologies to be used, and risk assumptions;
--  risk response guidance including, for example, risk tolerances, risk response concepts to be employed, opportunity costs, trade-offs, consequences of responses, hierarchy of authorities, and priorities;
--  risk monitoring guidance, including, for example, guidance on analysis of monitored risk factors to determine changes in risk, and monitoring frequency, methods, and reporting;
--  other and risk constraints on executing risk management activities; and
--  organizational priorities and trade-offs. Outputs from the risk framing step serve as inputs to the risk assessment, risk response, and risk monitoring steps.
+- Scope of the organizational risk management process (e.g., organizational entities covered; mission/business functions affected; how risk management activities are applied within the risk management tiers);
+- Risk assessment guidance including, for example, the characterization of threat sources, sources of threat information, representative threat events (in particular, adversary tactics, techniques, and procedures), when to consider and how to evaluate threats, sources of vulnerability information, risk assessment methodologies to be used, and risk assumptions;
+- Risk response guidance including, for example, risk tolerances, risk response concepts to be employed, opportunity costs, trade-offs, consequences of responses, hierarchy of authorities, and priorities;
+- Risk monitoring guidance, including, for example, guidance on analysis of monitored risk factors to determine changes in risk, and monitoring frequency, methods, and reporting;
+- Other and risk constraints on executing risk management activities; and
+- Organizational priorities and trade-offs. Outputs from the risk framing step serve as inputs to the risk assessment, risk response, and risk monitoring steps.
 
 ### 3.2 ASSESSING RISK
 
@@ -530,11 +523,11 @@ Incremental or differential risk assessments are useful if organizations require
 ##### Inputs and Preconditions
 
 Inputs to the risk assessment step from the risk framing step include, for example:
--  acceptable risk assessment methodologies;
--  the breadth and depth of analysis employed during risk assessments;
--  the level of granularity required for describing threats;
--  whether/how to assess external service providers; and
--  whether/how to aggregate risk assessment results from different organizational entities or mission/business functions to the organization as a whole. Organizational expectations regarding risk assessment methodologies, techniques, and/or procedures are shaped heavily by governance structures, risk tolerance, culture, trust, and life cycle processes. Prior to conducting risk assessments, organizations understand the fundamental reasons for conducting the assessments and what constitutes adequate depth and breadth for the assessments. Risk assumptions, risk constraints, risk tolerance, and priorities/tradeoffs defined during the risk framing step shape how organizations use risk assessments—for example, localized applications of the risk assessments within each of the risk management tiers (i.e., governance, mission/business process, information systems) or global applications of the risk assessments across the entire organization. Risk assessments can be conducted by organizations even when some of the inputs from the risk framing step have not been received or preconditions established. However, in those situations, the quality of the risk assessment results may be affected. In addition to the risk framing step, the risk assessment step can receive inputs from the risk monitoring step, especially during mission operations and the operations/maintenance phase of the system development life cycle (e.g., when organizations discover new threats or vulnerabilities that require an immediate reassessment of risk). The risk assessment step can also receive inputs from the risk response step (e.g., when organizations are considering the risk of employing new technology-based solutions as alternatives for risk reduction measures). As courses of action are developed in the risk response step, a differential risk assessment may be needed to evaluate differences that each course of action makes in the overall risk determination.
+- Acceptable risk assessment methodologies;
+- The breadth and depth of analysis employed during risk assessments;
+- The level of granularity required for describing threats;
+- Whether/how to assess external service providers; and
+- Whether/how to aggregate risk assessment results from different organizational entities or mission/business functions to the organization as a whole. Organizational expectations regarding risk assessment methodologies, techniques, and/or procedures are shaped heavily by governance structures, risk tolerance, culture, trust, and life cycle processes. Prior to conducting risk assessments, organizations understand the fundamental reasons for conducting the assessments and what constitutes adequate depth and breadth for the assessments. Risk assumptions, risk constraints, risk tolerance, and priorities/tradeoffs defined during the risk framing step shape how organizations use risk assessments—for example, localized applications of the risk assessments within each of the risk management tiers (i.e., governance, mission/business process, information systems) or global applications of the risk assessments across the entire organization. Risk assessments can be conducted by organizations even when some of the inputs from the risk framing step have not been received or preconditions established. However, in those situations, the quality of the risk assessment results may be affected. In addition to the risk framing step, the risk assessment step can receive inputs from the risk monitoring step, especially during mission operations and the operations/maintenance phase of the system development life cycle (e.g., when organizations discover new threats or vulnerabilities that require an immediate reassessment of risk). The risk assessment step can also receive inputs from the risk response step (e.g., when organizations are considering the risk of employing new technology-based solutions as alternatives for risk reduction measures). As courses of action are developed in the risk response step, a differential risk assessment may be needed to evaluate differences that each course of action makes in the overall risk determination.
 
 ##### Activities
 
@@ -583,19 +576,18 @@ Identifying and analyzing alternative courses of action typically occurs at Tier
 ##### Inputs and Preconditions
 
 Inputs from the risk assessment and risk framing steps include:
--  identification of threat sources and threat events;
--
-identification of vulnerabilities that are subject to exploitation;
--  estimates of potential consequences and/or impact if threats exploit vulnerabilities;
--  likelihood estimates that threats exploit vulnerabilities;
--  a determination of risk to organizational operations (i.e., mission, functions, image, and reputation), organizational assets, individuals, other organizations, and the Nation;
--  risk response guidance from the organizational risk management strategy (see Appendix H); and
--  the general organizational directions and guidance on appropriate responses to risk. In addition to the risk assessment and risk framing steps, the risk response step can receive inputs from the risk monitoring step
+- Identification of threat sources and threat events;
+- Identification of vulnerabilities that are subject to exploitation;
+- Estimates of potential consequences and/or impact if threats exploit vulnerabilities;
+- Likelihood estimates that threats exploit vulnerabilities;
+- A determination of risk to organizational operations (i.e., mission, functions, image, and reputation), organizational assets, individuals, other organizations, and the Nation;
+- Risk response guidance from the organizational risk management strategy (see Appendix H); and
+- The general organizational directions and guidance on appropriate responses to risk. In addition to the risk assessment and risk framing steps, the risk response step can receive inputs from the risk monitoring step
 (e.g., when organizations experience a breach or compromise to their information systems or environments of operation that require an immediate response to address the incident and reduce additional risk that results from the event). The risk response step can also receive inputs from the risk framing step (e.g., when organizations are required to deploy new safeguards and countermeasures in their information systems based on security requirements in new legislation or OMB policies). The risk framing step also directly shapes the resource constraints associated with selecting an appropriate course of action. Additional preconditions established at the risk framing step may include:
--  constraints based on architecture and previous investments;
--  organizational preferences and tolerances;
--  the expected effectiveness at mitigating risk (including how effectiveness is measured and monitored); and
--  the time horizon for the risk (e.g., current risk, projected risk—that is, a risk expected to arise in the future based on the results of threat assessments or a planned changes in missions/business functions, enterprise architecture (including information security architecture), or aspects of legal or regulatory compliance).
+- Constraints based on architecture and previous investments;
+- Organizational preferences and tolerances;
+- The expected effectiveness at mitigating risk (including how effectiveness is measured and monitored); and
+- The time horizon for the risk (e.g., current risk, projected risk—that is, a risk expected to arise in the future based on the results of threat assessments or a planned changes in missions/business functions, enterprise architecture (including information security architecture), or aspects of legal or regulatory compliance).
 
 ##### Activities
 
@@ -603,35 +595,37 @@ identification of vulnerabilities that are subject to exploitation;
 
 *Task 3-1:*  Identify alternative courses of action to respond to risk determined during the risk assessment.
 *Supplemental Guidance:* Organizations can respond to risk in a variety of ways. These include:
--  risk acceptance;
--
-risk avoidance;
--  risk mitigation;
--  risk sharing;
--  risk transfer; or
--  a combination of the above. A course of action is a time-phased or situation-dependent combination of risk response measures. For example, in an emergency situation, organizations might accept the risk associated with unfiltered connection to an external communications provider for a limited time; then avoid risk by cutting the connection; mitigate risk in the near-term by applying security controls to search for malware or evidence of unauthorized access to information that occurred during the period of unfiltered connection; and finally mitigate risk long-term by applying controls to handle such connections more securely.
 
-####### Risk Acceptance
+- Risk acceptance;
+- Risk avoidance;
+- Risk mitigation;
+- Risk sharing;
+- Risk transfer; or
+- A combination of the above.
+
+A course of action is a time-phased or situation-dependent combination of risk response measures. For example, in an emergency situation, organizations might accept the risk associated with unfiltered connection to an external communications provider for a limited time; then avoid risk by cutting the connection; mitigate risk in the near-term by applying security controls to search for malware or evidence of unauthorized access to information that occurred during the period of unfiltered connection; and finally mitigate risk long-term by applying controls to handle such connections more securely.
+
+*Risk Acceptance*
 
 Risk acceptance is the appropriate risk response when the identified risk is within the organizational risk tolerance.
 Organizations can accept risk deemed to be low, moderate, or high depending on particular situations or conditions. For example, organizations with data centers residing in the northeastern portion of the United States may opt to accept the risk of earthquakes based on known likelihood of earthquakes and data center vulnerability to damage by earthquakes.
 Organizations accept the fact that earthquakes are possible, but given the infrequency of major earthquakes in that region of the country, believe it is not cost-effective to address such risk—that is, the organizations have determined that risk associated with earthquakes is low. Conversely, organizations may accept substantially greater risk (in the moderate/high range) due to compelling mission, business, or operational needs. For example, federal agencies may decide to share very sensitive information with first responders who do not typically have access to such information due to time-sensitive needs to stop pending terrorist attacks, even though the information is not itself perishable with regard to risk through loss of confidentiality. Organizations typically make determinations regarding the general level of acceptable risk and the types of acceptable risk with consideration of organizational priorities and trade-offs between:
--  near-term mission/business needs and potential for longer-term mission/business impacts; and
--
-organizational interests and the potential impacts on individuals, other organizations, and the Nation.
+- Near-term mission/business needs and potential for longer-term mission/business impacts; and
+- Organizational interests and the potential impacts on individuals, other organizations, and the Nation.
 
-####### Risk Avoidance
+*Risk Avoidance*
 
 Risk avoidance may be the appropriate risk response when the identified risk exceeds the organizational risk tolerance.
 Organizations may conduct certain types of activities or employ certain types of information technologies that result in risk that is unacceptable. In such situations, risk avoidance involves taking specific actions to eliminate the activities or technologies that are the basis for the risk or to revise or reposition these activities or technologies in the organizational mission/business processes to avoid the potential for unacceptable risk. For example, organizations planning to employ networked connections between two domains, may determine through risk assessments that there is unacceptable risk in establishing such connections. Organizations may also determine that implementing effective safeguards and countermeasures (e.g., cross-domain solutions) is not practical in the given circumstances. Thus, the organizations decide to avoid the risk by eliminating the electronic or networked connections and employing an “air gap” with a manual connection processes (e.g., data transfers by secondary storage devices).
 
-####### Risk Mitigation
+*Risk Mitigation*
 
 Risk mitigation, or risk reduction, is the appropriate risk response for that portion of risk that cannot be accepted, avoided, shared, or transferred. The alternatives to mitigate risk depend on:
--  the risk management tier and the scope of risk response decisions assigned or delegated to organizational officials at that tier (defined by the organizational governance structures); and
--  the organizational risk management strategy and associated risk response strategies.
+- The risk management tier and the scope of risk response decisions assigned or delegated to organizational officials at that tier (defined by the organizational governance structures); and
+- The organizational risk management strategy and associated risk response strategies.
 The means used by organizations to mitigate risk can involve a combination of risk response measures across the three tiers. For example, risk mitigation can include common security controls at Tier 1, process re-engineering at Tier 2, and/or new or enhanced management, operational, or technical safeguards or countermeasures (or some combination of all three) at Tier 3. Another example of a potential risk requiring mitigation can be illustrated when adversaries gain access to mobile devices (e.g., laptop computers or personal digital assistants) while users are traveling. Possible risk mitigation measures include, for example, organizational policies prohibiting transport of mobile devices to certain areas of the world or procedures for users to obtain a clean mobile device that is never allowed to connect to the organizational networks.
-####### Risk Sharing or Transfer
+
+*Risk Sharing or Transfer*
 
 Risk sharing or risk transfer is the appropriate risk response when organizations desire and have the means to shift risk liability and responsibility to other organizations. Risk transfer shifts the entire risk responsibility or liability from one organization to another organization (e.g., using insurance to transfer risk from particular organizations to insurance companies). Risk sharing shifts a portion of risk responsibility or liability to other organizations (usually organizations that are more qualified to address the risk). It is important to note that risk transfer reduces neither the likelihood of harmful events occurring nor the consequences in terms of harm to organizational operations and assets, individuals, other organizations, or the Nation. Risk sharing may be a sharing of liability or a sharing of responsibility for other, adequate risk responses such as mitigation. Therefore, the concept of risk transfer is less applicable in the public sector
 (e.g., federal, state, local governments) than the private sector, as liability of organizations is generally established by legislation or policy. As such, self-initiated transfers of risk by public sector organizations (as typified by purchasing insurance) are generally not possible. Risk sharing often occurs when organizations determine that addressing risk requires expertise or resources that are better provided by other organizations. For example, an identified risk might be the physical penetration of perimeters and kinetic attacks by terrorist groups. The organization decides to partner with another organization sharing the physical facility to take joint responsibility for addressing risk from kinetic attacks.
@@ -640,18 +634,18 @@ Risk sharing or risk transfer is the appropriate risk response when organization
 
 *TASK 3-2*: Evaluate alternative courses of action for responding to risk.  
 *Supplemental Guidance:* The evaluation of alternative courses of action can include:
--  the expected effectiveness in achieving desired risk response (and how effectiveness is measured and monitored); and
--  anticipated feasibility of implementation, including, for example, mission/business impact, political, legal, social, financial, technical, and economic considerations. Economic considerations include costs throughout the expected period of time during which the course of action is followed (e.g., cost of procurement, integration into organizational processes at Tier 1 and/or Tier 2, information systems at Tier 3, training, and maintenance). During the evaluation of alternative courses of action, trade-offs can be made explicit between near-term gains in mission/business effectiveness or efficiency and long-term risk of mission/business harm due to compromise of information or information systems that are providing this nearterm benefit. For example, organizations concerned about the potential for mobile devices (e.g., laptop computers)
+- The expected effectiveness in achieving desired risk response (and how effectiveness is measured and monitored); and
+- Anticipated feasibility of implementation, including, for example, mission/business impact, political, legal, social, financial, technical, and economic considerations. Economic considerations include costs throughout the expected period of time during which the course of action is followed (e.g., cost of procurement, integration into organizational processes at Tier 1 and/or Tier 2, information systems at Tier 3, training, and maintenance). During the evaluation of alternative courses of action, trade-offs can be made explicit between near-term gains in mission/business effectiveness or efficiency and long-term risk of mission/business harm due to compromise of information or information systems that are providing this nearterm benefit. For example, organizations concerned about the potential for mobile devices (e.g., laptop computers)
 being compromised while employees are on travel can evaluate several courses of action including:
--  providing users traveling to high-risk areas with clean laptops;
--  removing hard drives from laptops and operate from CDs or DVDs; or
--  having laptops go through a detailed assessment before being allowed to connect to organizational networks.
+- Providing users traveling to high-risk areas with clean laptops;
+- Removing hard drives from laptops and operate from CDs or DVDs; or
+- Having laptops go through a detailed assessment before being allowed to connect to organizational networks.
 The first option is highly effective as returning laptops are never connected to organizational networks. While the second option ensures that hard drives cannot be corrupted, it is not quite as effective in that it is still possible that hardware devices (e.g., motherboards) could have been compromised. The effectiveness of the third option is limited by the ability of organizations to detect potential insertion of malware into the hardware, firmware, or software. As such, it is the least effective of the three options. From a cost perspective, the first option is potentially the most expensive, depending upon the number of travelers (hence number of travel laptops) required. The second and third options are considerably less expensive. From a mission and operational perspective, the third option is the best alternative as users have access to standard laptop configurations including all applications and supporting data needed to perform tasks supporting missions and business functions. Such applications and data would not be available if the first or second option is selected. Ultimately, the evaluation of courses of action is made based on operational requirements, including information security requirements, needed for near and long term mission/business success.
 Budgetary constraints, consistency with investment management strategies, civil liberties, and privacy protection, are some of the important elements organizations consider when selecting appropriate courses of action. In those instances where organizations only identify a single course of action, then the evaluation is focused on whether the course of action is adequate. If the course of action is deemed inadequate, then organizations need to refine the identified course of action to address the inadequacies or develop another course of action (see Task 3-1).
 
 In summary, a risk verses risk-response trade-off is conducted for each course of action to provide the information necessary for:
--  selecting between the courses of action; and
--  evaluating the courses of action in terms of response effectiveness, costs, mission/business impact, and any other factors deemed relevant to organizations. Part of risk versus risk-response trade-off considers the issue of competing resources. From an organizational perspective, this means organizations consider whether the cost (e.g., money, personnel, time) for implementing a given course of action has the potential to adversely impact other missions or business functions, and if so, to what extent. This is necessary because organizations have finite resources to employ and many competing missions/business functions across many organizational elements. Therefore, organizations assess the overall value of alternative courses of action with regard to the missions/business functions and the potential risk to each organizational element. Organizations may determine that irrespective of a particular mission/business function and the validity of the associated risk, there are more important missions/business functions that face more significant risks, and hence have a better claim on the limited resources.
+- Selecting between the courses of action; and
+- Evaluating the courses of action in terms of response effectiveness, costs, mission/business impact, and any other factors deemed relevant to organizations. Part of risk versus risk-response trade-off considers the issue of competing resources. From an organizational perspective, this means organizations consider whether the cost (e.g., money, personnel, time) for implementing a given course of action has the potential to adversely impact other missions or business functions, and if so, to what extent. This is necessary because organizations have finite resources to employ and many competing missions/business functions across many organizational elements. Therefore, organizations assess the overall value of alternative courses of action with regard to the missions/business functions and the potential risk to each organizational element. Organizations may determine that irrespective of a particular mission/business function and the validity of the associated risk, there are more important missions/business functions that face more significant risks, and hence have a better claim on the limited resources.
 
 ###### RISK RESPONSE DECISION
 
@@ -668,25 +662,24 @@ Given the size and complexity of some organizations, the actual implementation o
 #### Outputs and Post Conditions
 
 The output of the risk response step is the implementation of the selected courses of action with consideration for:
--
-individuals or organizational elements responsible for the selected risk response measures and specifications of effectiveness criteria (i.e., articulation of indicators and thresholds against which the effectiveness of risk response measures can be judged);
--  dependencies of each selected risk response measure on other risk response measures;
+- Individuals or organizational elements responsible for the selected risk response measures and specifications of effectiveness criteria (i.e., articulation of indicators and thresholds against which the effectiveness of risk response measures can be judged);
+- Dependencies of each selected risk response measure on other risk response measures;
 
--  dependencies of selected risk response measures on other factors (e.g., the implementation of other planned information technology measures);
--  timeline for implementation of risk response measures;
--  plans for monitoring the effectiveness of risk response measures;
--  identification of risk monitoring triggers; and
--  interim risk response measures selected for implementation, if appropriate. There are also ongoing communications and sharing of risk-related information with individuals or organizational elements impacted by the risk responses (including potential actions that may need to be taken by the individuals or organizational elements).
+- Dependencies of selected risk response measures on other factors (e.g., the implementation of other planned information technology measures);
+- Timeline for implementation of risk response measures;
+- Plans for monitoring the effectiveness of risk response measures;
+- Identification of risk monitoring triggers; and
+- Interim risk response measures selected for implementation, if appropriate. There are also ongoing communications and sharing of risk-related information with individuals or organizational elements impacted by the risk responses (including potential actions that may need to be taken by the individuals or organizational elements).
 In addition to the risk monitoring step, outputs from the risk response step can be useful inputs to the risk framing and risk assessment steps. For example, it is possible that the analysis occurring during the evaluation of alternative courses of action may call into question some aspects of the risk response strategy that is part of the risk management strategy generated during the risk framing step. In such instances, organizations use that information to inform the risk framing step with appropriate actions taken to revisit the risk management strategy and its associated risk response strategy.
 Organizations might also determine during the evaluation of alternative courses of action for risk response, that some aspects of the risk assessments are incomplete or incorrect. This information can be used to inform the risk assessment step possibly resulting in further analysis or reassessments of risk.
 
 ### 3.4 MONITORING RISK
 
 Risk monitoring provides organizations with the means to:
--  verify compliance;
+- Verify compliance;
 64
--  determine the ongoing effectiveness of risk response measures; and
--  identify risk-impacting changes to organizational information systems and environments of operation. Analyzing monitoring results gives organizations the capability to maintain awareness of the risk being incurred, highlight the need to revisit other steps in the risk management process, and initiate process improvement activities as needed. Organizations employ risk monitoring tools, techniques, and procedures to increase risk awareness, helping senior leaders/executives develop a better understanding of the ongoing risk to organizational operations and assets, individuals, other organizations, and the Nation. Organizations can implement risk monitoring at any of the risk management tiers with different objectives and utility of information produced. For example, Tier 1 monitoring activities might include ongoing threat assessments and how changes in the threat space may affect Tier 2
+- Determine the ongoing effectiveness of risk response measures; and
+- Identify risk-impacting changes to organizational information systems and environments of operation. Analyzing monitoring results gives organizations the capability to maintain awareness of the risk being incurred, highlight the need to revisit other steps in the risk management process, and initiate process improvement activities as needed. Organizations employ risk monitoring tools, techniques, and procedures to increase risk awareness, helping senior leaders/executives develop a better understanding of the ongoing risk to organizational operations and assets, individuals, other organizations, and the Nation. Organizations can implement risk monitoring at any of the risk management tiers with different objectives and utility of information produced. For example, Tier 1 monitoring activities might include ongoing threat assessments and how changes in the threat space may affect Tier 2
 and Tier 3 activities, including enterprise architectures (with embedded information security architectures) and organizational information systems. Tier 2 monitoring activities might include, for example, analyses of new or current technologies either in use or considered for future use by organizations to identify exploitable weaknesses and/or deficiencies in those technologies that may affect mission/business success. Tier 3 monitoring activities focus on information systems and might include, for example, automated monitoring of standard configuration settings for information technology products, vulnerability scanning, and ongoing assessments of security controls. In addition to deciding on appropriate monitoring activities across the risk management tiers, organizations also decide how monitoring is to be conducted (e.g., automated or manual approaches) and the frequency of monitoring activities based on, for example, the frequency with which deployed security controls change, critical items on plans of action and milestones, and risk tolerance.
 
 #### STEP 4: RISK MONITORING
@@ -701,10 +694,10 @@ Inputs to this step include implementation strategies for selected courses of ac
 
 *TASK 4-1:* Develop a risk monitoring strategy for the organization that includes the purpose, type, and frequency of monitoring activities.
 *Supplemental Guidance:* Organizations implement risk monitoring programs:
--  to verify that required risk response measures are implemented and that information security requirements derived from and traceable to organizational missions/business functions, federal legislation, directives, regulations, policies, and standards/guidelines, are satisfied
+- To verify that required risk response measures are implemented and that information security requirements derived from and traceable to organizational missions/business functions, federal legislation, directives, regulations, policies, and standards/guidelines, are satisfied
 (compliance monitoring);
--  to determine the ongoing effectiveness of risk response measures after the measures have been implemented (effectiveness monitoring); and
--  to identify changes to organizational information systems and the environments in which the systems operate that may affect risk (change monitoring) including changes in the feasibility of the ongoing implementation of risk response measures). Determining the purpose of risk monitoring programs directly impacts the means used by organizations to conduct the monitoring activities and where monitoring occurs (i.e., at which risk management tiers). Organizations also determine the type of monitoring to be employed, including approaches that rely on automation or approaches that rely on procedural/manual activities with human intervention. Finally, organizations determine how often monitoring activities are conducted, balancing value gained from frequent monitoring with potential for operational disruptions due for example, to interruption of mission/business processes, reduction in operational bandwidth during monitoring, and shift of resources from operations to monitoring.
+- To determine the ongoing effectiveness of risk response measures after the measures have been implemented (effectiveness monitoring); and
+- To identify changes to organizational information systems and the environments in which the systems operate that may affect risk (change monitoring) including changes in the feasibility of the ongoing implementation of risk response measures). Determining the purpose of risk monitoring programs directly impacts the means used by organizations to conduct the monitoring activities and where monitoring occurs (i.e., at which risk management tiers). Organizations also determine the type of monitoring to be employed, including approaches that rely on automation or approaches that rely on procedural/manual activities with human intervention. Finally, organizations determine how often monitoring activities are conducted, balancing value gained from frequent monitoring with potential for operational disruptions due for example, to interruption of mission/business processes, reduction in operational bandwidth during monitoring, and shift of resources from operations to monitoring.
 Monitoring strategies developed at Tier 1 influence and provide direction for similar strategies developed at Tier 2 and Tier 3 including the monitoring activities associated with the Risk Management Framework at the information system level.
 ###### Monitoring Compliance
 
@@ -714,10 +707,10 @@ This includes ensuring that the risk response measures selected and implemented 
 ###### Monitoring Effectiveness
 
 Effectiveness monitoring is employed by organizations to determine if implemented risk response measures have actually been effective in reducing identified risk to the desired level. Although effectiveness monitoring is different than compliance monitoring, failure to achieve desired levels of effectiveness may be an indication that risk response measures have been implemented incorrectly or are not operating as intended. Determining the effectiveness of risk response measures is generally more challenging than determining whether the measures have been implemented correctly and are operating as intended (i.e., meeting identified compliance requirements). Risk response measures implemented correctly and operating as intended do not guarantee an effective reduction of risk. This is primarily due to:
--  the complexity of operating environments which may generate unintended consequences;
--  subsequent changes in levels of risk or associated risk factors (e.g., threats, vulnerabilities, impact, or likelihood);
--  inappropriate or incomplete criteria established as an output of the risk response step; and
--  changes in information systems and environments of operation after implementation of risk response measures. This is especially true when organizations try to determine if more strategic outcomes have been achieved and for more dynamic operating environments. For example, if the desired outcome for organizations is to be less susceptible to advanced persistent threats, this may be challenging to measure since these types of threats are, by definition, very difficult to detect. Even when organizations are able to establish effectiveness criteria, it is often difficult to obtain criteria that are quantifiable. Therefore, it may become a matter of subjective judgment as to whether the implemented risk response measures are ultimately effective.
+- The complexity of operating environments which may generate unintended consequences;
+- Subsequent changes in levels of risk or associated risk factors (e.g., threats, vulnerabilities, impact, or likelihood);
+- Inappropriate or incomplete criteria established as an output of the risk response step; and
+- Changes in information systems and environments of operation after implementation of risk response measures. This is especially true when organizations try to determine if more strategic outcomes have been achieved and for more dynamic operating environments. For example, if the desired outcome for organizations is to be less susceptible to advanced persistent threats, this may be challenging to measure since these types of threats are, by definition, very difficult to detect. Even when organizations are able to establish effectiveness criteria, it is often difficult to obtain criteria that are quantifiable. Therefore, it may become a matter of subjective judgment as to whether the implemented risk response measures are ultimately effective.
 Moreover, even if quantifiable effectiveness criteria are provided, it may be difficult to determine if the information provided satisfies the criteria. If organizations determine that risk response measures are not effective, then it may be necessary to return to the risk response step. Generally, for effectiveness failures, organizations cannot simply return to the implementation portion of the risk response step. Therefore, depending on the reason for the lack of effectiveness, organizations revisit all portions of the risk response step (i.e., development, evaluation, decision, and implementation)
 and potentially the risk assessment step. These activities may result in organizations developing and implementing entirely new risk responses.
 
@@ -735,10 +728,10 @@ Broadly speaking, organizations can conduct monitoring either by automated or ma
 ###### Frequency of Monitoring
 
 The frequency of risk monitoring (whether automated or manual) is driven by organizational missions/business functions and the ability of organizations to use the monitoring results to facilitate greater situational awareness. An increased level of situational awareness of the security state of organizational information systems and environments of operation helps organizations develop a better understanding of risk. Monitoring frequency is also driven by other factors, for example:
--  the anticipated frequency of changes in organizational information systems and operating environments;
--  the potential impact of risk if not properly addressed through appropriate response measures; and
+- The anticipated frequency of changes in organizational information systems and operating environments;
+- The potential impact of risk if not properly addressed through appropriate response measures; and
 
--  the degree to which the threat space is changing. The frequency of monitoring can also be affected by the type of monitoring conducted (i.e., automated versus procedural approaches). Depending on the frequency of monitoring
+- The degree to which the threat space is changing. The frequency of monitoring can also be affected by the type of monitoring conducted (i.e., automated versus procedural approaches). Depending on the frequency of monitoring
 
 ##### RISK MONITORING
 
@@ -749,10 +742,10 @@ As noted above, not all monitoring activities are conducted at the same tiers, f
 ##### Outputs and Post Conditions
 
 The output from the risk monitoring step is the information generated by:
--  verifying that required risk response measures are implemented and that information security requirements derived from and traceable to organizational missions/business functions, federal legislation, directives, regulations, policies, and standards/guidelines, are satisfied;
+- Verifying that required risk response measures are implemented and that information security requirements derived from and traceable to organizational missions/business functions, federal legislation, directives, regulations, policies, and standards/guidelines, are satisfied;
 
--  determining the ongoing effectiveness of risk response measures; and
--  identifying changes to organizational information systems and environments of operation. Outputs from the risk monitoring step can be useful inputs to the risk framing, risk assessment, and risk response steps. For example, compliance monitoring results may require that organizations revisit the implementation portion of the risk response step, while effectiveness monitoring results may require that organizations revisit the entire risk response step. The results of monitoring for changes to information systems and environments of operation may require organizations to revisit the risk assessment step. The results of the risk monitoring step can also serve the risk framing step (e.g., when organizations discover new threats or vulnerabilities that affect changes in organizational risk assumptions, risk tolerance, and/or priorities/trade-offs).
+- Determining the ongoing effectiveness of risk response measures; and
+- Identifying changes to organizational information systems and environments of operation. Outputs from the risk monitoring step can be useful inputs to the risk framing, risk assessment, and risk response steps. For example, compliance monitoring results may require that organizations revisit the implementation portion of the risk response step, while effectiveness monitoring results may require that organizations revisit the entire risk response step. The results of monitoring for changes to information systems and environments of operation may require organizations to revisit the risk assessment step. The results of the risk monitoring step can also serve the risk framing step (e.g., when organizations discover new threats or vulnerabilities that affect changes in organizational risk assumptions, risk tolerance, and/or priorities/trade-offs).
 
 # APPENDIX A
 
@@ -797,9 +790,9 @@ This appendix provides definitions for security terminology used within Special 
 Adequate Security Security commensurate with the risk and magnitude of
 [OMB Circular A-130, Appendix III] harm resulting from the loss, misuse, or unauthorized access to or modification of information.
 Advanced Persistent Threat An adversary that possesses sophisticated levels of expertise and significant resources which allow it to create opportunities to achieve its objectives by using multiple attack vectors (e.g., cyber, physical, and deception). These objectives typically include establishing and extending footholds within the information technology infrastructure of the targeted organizations for purposes of exfiltrating information, undermining or impeding critical aspects of a mission, program, or organization; or positioning itself to carry out these objectives in the future. The advanced persistent threat:
--  pursues its objectives repeatedly over an extended period of time;
--  adapts to defenders’ efforts to resist it; and
--  is determined to maintain the level of interaction needed to execute its objectives.
+- Pursues its objectives repeatedly over an extended period of time;
+- Adapts to defenders’ efforts to resist it; and
+- Is determined to maintain the level of interaction needed to execute its objectives.
 Agency See Executive Agency.
 Assessment See Security Control Assessment.
 Assessor See Security Control Assessor.
@@ -833,11 +826,11 @@ Senior (federal) official or executive with the authority to formally assume res
 Ensuring timely and reliable access to and use of information.
 Agency official responsible for:
 
--  Providing advice and other assistance to the head of the executive agency and other senior management personnel of the agency to ensure that information technology is acquired and information resources are managed in a manner that is consistent with laws, Executive Orders, directives, policies, regulations, and priorities established by the head of the agency;
+- Providing advice and other assistance to the head of the executive agency and other senior management personnel of the agency to ensure that information technology is acquired and information resources are managed in a manner that is consistent with laws, Executive Orders, directives, policies, regulations, and priorities established by the head of the agency;
 
--  Developing, maintaining, and facilitating the implementation of a sound and integrated information technology architecture for the agency; and
+- Developing, maintaining, and facilitating the implementation of a sound and integrated information technology architecture for the agency; and
 
--  Promoting the effective and efficient design and operation of all major information resources management processes for the agency, including improvements to work processes of the agency.
+- Promoting the effective and efficient design and operation of all major information resources management processes for the agency, including improvements to work processes of the agency.
 See Senior Agency Information Security Officer.
 Information that has been determined pursuant to Executive Order 13526 or any predecessor order to require protection against unauthorized disclosure and is marked to indicate its classified status when in documentary form.
 
@@ -919,9 +912,8 @@ Information System Boundary See Authorization Boundary.
 Information System Owner Official responsible for the overall procurement,
 (or Program Manager) development, integration, modification, or operation and maintenance of an information system.
 Information System Resilience The ability of an information system to continue to:
--
-operate under adverse conditions or stress, even if in a degraded or debilitated state, while maintaining essential operational capabilities; and
--  recover to an effective operational posture in a time frame consistent with mission needs.
+- Operate under adverse conditions or stress, even if in a degraded or debilitated state, while maintaining essential operational capabilities; and
+- Recover to an effective operational posture in a time frame consistent with mission needs.
 Information System Individual assigned responsibility by the senior agency Security Officer information security officer, authorizing official, management official, or information system owner for maintaining the appropriate operational security posture for an information system or program.
 
 Information Security Risk
@@ -940,9 +932,8 @@ Risks that arise through the loss of confidentiality, integrity, or availability
 (including assets, mission, functions, image, or reputation), individuals, other organizations, and the Nation. See Risk.
 Any equipment or interconnected system or subsystem of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency.
 For purposes of the preceding sentence, equipment is used by an executive agency if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency which:
--
-requires the use of such equipment; or
--  requires the use, to a significant extent, of such equipment in the performance of a service or the furnishing of a product.
+- Requires the use of such equipment; or
+- Requires the use, to a significant extent, of such equipment in the performance of a service or the furnishing of a product.
 The term information technology includes computers, ancillary equipment, software, firmware, and similar procedures, services (including support services), and related resources.
 A specific category of information (e.g., privacy, medical, proprietary, financial, investigative, contractor sensitive, security management) defined by an organization or in some instances, by a specific law, Executive Order, directive, policy, or regulation.
 Guarding against improper information modification or destruction, and includes ensuring information nonrepudiation and authenticity.
@@ -962,16 +953,16 @@ Risk
 [CNSSI 4009]
 
 Any information system (including any telecommunications system) used or operated by an agency or by a contractor of an agency, or other organization on behalf of an agency
--  the function, operation, or use of which involves intelligence activities; involves cryptologic activities related to national security; involves command and control of military forces; involves equipment that is an integral part of a weapon or weapons system; or is critical to the direct fulfillment of military or intelligence missions (excluding a system that is to be used for routine administrative and business applications, for example, payroll, finance, logistics, and personnel management applications); or
--  is protected at all times by procedures established for information that have been specifically authorized under criteria established by an Executive Order or an Act of Congress to be kept classified in the interest of national defense or foreign policy.
+- The function, operation, or use of which involves intelligence activities; involves cryptologic activities related to national security; involves command and control of military forces; involves equipment that is an integral part of a weapon or weapons system; or is critical to the direct fulfillment of military or intelligence missions (excluding a system that is to be used for routine administrative and business applications, for example, payroll, finance, logistics, and personnel management applications); or
+- Is protected at all times by procedures established for information that have been specifically authorized under criteria established by an Executive Order or an Act of Congress to be kept classified in the interest of national defense or foreign policy.
 The security controls (i.e., safeguards or countermeasures) for an information system that are primarily implemented and executed by people (as opposed to systems).
 An entity of any size, complexity, or positioning within an organizational structure (e.g., a federal agency or, as appropriate, any of its operational elements). See Enterprise.
 A document that identifies tasks needing to be accomplished. It details resources required to accomplish the elements of the plan, any milestones in meeting the tasks, and scheduled completion dates for the milestones.
 Mutual agreement among participating organizations to accept each other’s security assessments in order to reuse information system resources and/or to accept each other’s assessed security posture in order to share information.
 See Information System Resilience.
 A measure of the extent to which an entity is threatened by a potential circumstance or event, and typically a function of:
--  the adverse impacts that would arise if the circumstance or event occurs; and
--  the likelihood of occurrence.
+- The adverse impacts that would arise if the circumstance or event occurs; and
+- The likelihood of occurrence.
 [Note: Information system-related security risks are those risks that arise from the loss of confidentiality, integrity, or availability of information or information systems and reflect the potential adverse impacts to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the Nation.]
 
 Risk Assessment The process of identifying risks to organizational operations (including mission, functions, image, reputation), organizational assets, individuals, other organizations, and the Nation, resulting from the operation of an information system.
@@ -980,18 +971,17 @@ Synonymous with risk analysis.
 Risk Executive (Function)
 [CNSSI 4009]
 An individual or group within an organization that helps to ensure that:
--  security risk-related considerations for individual information systems, to include the authorization decisions for those systems, are viewed from an organization-wide perspective with regard to the overall strategic goals and objectives of the organization in carrying out its missions and business functions; and
+- Security risk-related considerations for individual information systems, to include the authorization decisions for those systems, are viewed from an organization-wide perspective with regard to the overall strategic goals and objectives of the organization in carrying out its missions and business functions; and
 
--  managing risk from individual information systems is consistent across the organization, reflects organizational risk tolerance, and is considered along with other organizational risks affecting mission/business success.
+- Managing risk from individual information systems is consistent across the organization, reflects organizational risk tolerance, and is considered along with other organizational risks affecting mission/business success.
 Risk Management
 [CNSSI 4009, adapted]
 The program and supporting processes to manage information security risk to organizational operations
 (including mission, functions, image, reputation), organizational assets, individuals, other organizations, and the Nation, and includes:
--  establishing the context for risk-related activities;
--  assessing risk;
--
-responding to risk once determined; and
--  monitoring risk over time.
+- Establishing the context for risk-related activities;
+- Assessing risk;
+- Responding to risk once determined; and
+- Monitoring risk over time.
 Risk Mitigation
 [CNSSI 4009]
 Prioritizing, evaluating, and implementing the appropriate risk-reducing controls/countermeasures recommended from the risk management process.
@@ -1026,8 +1016,8 @@ The testing and/or evaluation of the management, operational, and technical secu
 The individual, group, or organization responsible for conducting a security control assessment.
 The set of minimum security controls defined for a lowimpact, moderate-impact, or high-impact information system.
 Statements of security capability to:
--  build in additional, but related, functionality to a basic control; and/or
--  increase the strength of a basic control.
+- Build in additional, but related, functionality to a basic control; and/or
+- Increase the strength of a basic control.
 A situation in which an information system or application receives protection from security controls (or portions of security controls) that are developed, implemented, assessed, authorized, and monitored by entities other than those responsible for the system or application; entities either internal or external to the organization where the system or application resides. See Common Control.
 The management, operational, and technical controls
 (i.e., safeguards or countermeasures) prescribed for an information system to protect the confidentiality, integrity, and availability of the system and its information.
@@ -1061,9 +1051,9 @@ See Information System.
 Formal document that provides an overview of the security requirements for an information system and describes the security controls in place or planned for meeting those requirements.
 A security control for an information system that has not been designated as a common control or the portion of a hybrid control that is to be implemented within an information system.
 The process by which a security control baseline is modified based on:
--  the application of scoping guidance;
--  the specification of compensating security controls, if needed; and
--  the specification of organization-defined parameters in the security controls via explicit assignment and selection statements.
+- The application of scoping guidance;
+- The specification of compensating security controls, if needed; and
+- The specification of organization-defined parameters in the security controls via explicit assignment and selection statements.
 A set of security controls resulting from the application of tailoring guidance to the security control baseline. See Tailoring.
 
 Technical Controls
@@ -1123,11 +1113,11 @@ The following sections describe the roles and responsibilities of key participan
 ###D.1 HEAD OF AGENCY (CHIEF EXECUTIVE OFFICER)
 
 The head of agency (or chief executive officer) is the highest-level senior official or executive within an organization with the overall responsibility to provide information security protections commensurate with the risk and magnitude of harm (i.e., impact) to organizational operations and assets, individuals, other organizations, and the Nation resulting from unauthorized access, use, disclosure, disruption, modification, or destruction of:
--  information collected or maintained by or on behalf of the agency; and
--  information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency. Agency heads are also responsible for ensuring that:
--  information security management processes are integrated with strategic and operational planning processes;
--  senior officials within the organization provide information security for the information and information systems that support the operations and assets under their control; and
--  the organization has trained personnel sufficient to assist in complying with the information security requirements in related legislation, policies, directives, instructions, standards, and guidelines. Through the development and implementation of strong policies, the head of agency establishes the organizational commitment to information security and the actions required to effectively manage risk and protect the missions/business functions being carried out by the organization. The head of agency establishes appropriate accountability for information security and provides active support and oversight of monitoring and improvement for the information security program. Senior leadership commitment to information security establishes a level of due diligence within the organization that promotes a climate for mission and business success.
+- Information collected or maintained by or on behalf of the agency; and
+- Information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency. Agency heads are also responsible for ensuring that:
+- Information security management processes are integrated with strategic and operational planning processes;
+- Senior officials within the organization provide information security for the information and information systems that support the operations and assets under their control; and
+- The organization has trained personnel sufficient to assist in complying with the information security requirements in related legislation, policies, directives, instructions, standards, and guidelines. Through the development and implementation of strong policies, the head of agency establishes the organizational commitment to information security and the actions required to effectively manage risk and protect the missions/business functions being carried out by the organization. The head of agency establishes appropriate accountability for information security and provides active support and oversight of monitoring and improvement for the information security program. Senior leadership commitment to information security establishes a level of due diligence within the organization that promotes a climate for mission and business success.
 
 ### D.2 RISK EXECUTIVE (FUNCTION)
 
@@ -1151,11 +1141,11 @@ The risk executive (function) requires a mix of skills, expertise, and perspecti
 ### D.3 CHIEF INFORMATION OFFICER
 
 The chief information officer is an organizational official responsible for:
--  designating a senior information security officer;
--  developing and maintaining information security policies, procedures, and control techniques to address all applicable requirements;
--  overseeing personnel with significant responsibilities for information security and ensuring that the personnel are adequately trained;
--  assisting senior organizational officials concerning their security responsibilities; and
--  in coordination with other senior officials, reporting annually to the head of the federal agency on the overall effectiveness of the organization’s information security program, including progress of remedial actions. The chief information officer, with the support of the risk executive (function) and the senior information security officer, works closely with authorizing officials and their designated representatives to help ensure that:
+- Designating a senior information security officer;
+- Developing and maintaining information security policies, procedures, and control techniques to address all applicable requirements;
+- Overseeing personnel with significant responsibilities for information security and ensuring that the personnel are adequately trained;
+- Assisting senior organizational officials concerning their security responsibilities; and
+- In coordination with other senior officials, reporting annually to the head of the federal agency on the overall effectiveness of the organization’s information security program, including progress of remedial actions. The chief information officer, with the support of the risk executive (function) and the senior information security officer, works closely with authorizing officials and their designated representatives to help ensure that:
 - An organization-wide information security program is effectively implemented resulting in adequate security for all organizational information systems and environments of operation for those systems;
 - Information security considerations are integrated into programming/planning/budgeting cycles, enterprise architectures, and acquisition/system development life cycles;
 - Information systems are covered by approved security plans and are authorized to operate;
@@ -1171,13 +1161,12 @@ The owner/steward of the information processed, stored, or transmitted by an inf
 ### D.5 SENIOR INFORMATION SECURITY OFFICER
 
 The senior information security officer is an organizational official responsible for:
--  carrying out the chief information officer security responsibilities under FISMA; and
--  serving as the primary liaison for the chief information officer to the organization’s authorizing officials, information system owners, common control providers, and information system security officers.
+- Carrying out the chief information officer security responsibilities under FISMA; and
+- Serving as the primary liaison for the chief information officer to the organization’s authorizing officials, information system owners, common control providers, and information system security officers.
 The senior information security officer:
--  possesses professional qualifications, including training and experience, required to administer the information security program functions;
--
-maintains information security duties as a primary responsibility; and
--  heads an office with the mission and resources to assist the organization in achieving more secure information and information systems in accordance with the requirements in FISMA. The senior information security officer (or supporting staff members) may also serve as authorizing official designated representatives or security control assessors. The role of senior information security officer has inherent U.S. Government authority and is assigned to government personnel only.
+- Possesses professional qualifications, including training and experience, required to administer the information security program functions;
+- Maintains information security duties as a primary responsibility; and
+- Heads an office with the mission and resources to assist the organization in achieving more secure information and information systems in accordance with the requirements in FISMA. The senior information security officer (or supporting staff members) may also serve as authorizing official designated representatives or security control assessors. The role of senior information security officer has inherent U.S. Government authority and is assigned to government personnel only.
 
 ### D.6 AUTHORIZING OFFICIAL
 
@@ -1191,12 +1180,11 @@ The authorizing official designated representative is an organizational official
 ### D.8 COMMON CONTROL PROVIDER
 
 The common control provider is an individual, group, or organization responsible for the development, implementation, assessment, and monitoring of common controls (i.e., security controls inherited by information systems).72 Common control providers are responsible for:
--
-documenting the organization-identified common controls in a security plan (or equivalent document prescribed by the organization);
--  ensuring that required assessments of common controls are carried out by qualified assessors with an appropriate level of independence defined by the organization;
--  documenting assessment findings in a security assessment report; and
+- Documenting the organization-identified common controls in a security plan (or equivalent document prescribed by the organization);
+- Ensuring that required assessments of common controls are carried out by qualified assessors with an appropriate level of independence defined by the organization;
+- Documenting assessment findings in a security assessment report; and
 
--  producing a plan of action and milestones for all controls having weaknesses or deficiencies.
+- Producing a plan of action and milestones for all controls having weaknesses or deficiencies.
 Security plans, security assessment reports, and plans of action and milestones for common controls (or a summary of such information) is made available to information system owners inheriting those controls after the information is reviewed and approved by the senior official or executive with oversight responsibility for those controls.
 
 ### D.9 INFORMATION SYSTEM OWNER
@@ -1220,12 +1208,11 @@ The information system security engineer is an individual, group, or organizatio
 
 The security control assessor is an individual, group, or organization responsible for conducting a comprehensive assessment of the management, operational, and technical security controls employed within or inherited by an information system to determine the overall effectiveness of the controls (i.e., the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security requirements for the system). Security control assessors also provide an assessment of the severity of weaknesses or deficiencies discovered in the information system and its environment of operation and recommend corrective actions to address identified vulnerabilities. In addition to the above responsibilities, security control assessors prepare the final security assessment report containing the results and findings from the assessment. Prior to initiating the security control assessment, an assessor conducts an assessment of the security plan to help ensure that the plan provides a set of security controls for the information system that meet the stated security requirements.
 The required level of assessor independence is determined by the specific conditions of the security control assessment. For example, when the assessment is conducted in support of an authorization decision or ongoing authorization, the authorizing official makes an explicit determination of the degree of independence required in accordance with federal policies, directives, standards, and guidelines. Assessor independence is an important factor in:
--
-preserving the impartial and unbiased nature of the assessment process;
--  determining the credibility of the security assessment results; and
--  ensuring that the authorizing official receives the most objective information possible in order to make an informed, risk-based, authorization decision. The information system owner and common control provider rely on the security expertise and the technical judgment of the assessor to:
--  assess the security controls employed within and inherited by the information system using assessment procedures specified in the security assessment plan; and
--  provide specific recommendations on how to correct weaknesses or deficiencies in the controls and address identified vulnerabilities.
+- Preserving the impartial and unbiased nature of the assessment process;
+- Determining the credibility of the security assessment results; and
+- Ensuring that the authorizing official receives the most objective information possible in order to make an informed, risk-based, authorization decision. The information system owner and common control provider rely on the security expertise and the technical judgment of the assessor to:
+- Assess the security controls employed within and inherited by the information system using assessment procedures specified in the security assessment plan; and
+- Provide specific recommendations on how to correct weaknesses or deficiencies in the controls and address identified vulnerabilities.
 
 # APPENDIX E
 ## RISK MANAGEMENT PROCESS TASKS - SUMMARY OF TASKS FOR STEPS IN THE RISK MANAGEMENT PROCESS
@@ -1274,9 +1261,9 @@ Monitor organizational information systems and environments of operation on an o
 ## GOVERNANCE MODELS - APPROACHES TO INFORMATION SECURITY GOVERNANCE
 
 Three approaches to information security governance can be used to meet organizational needs:
--  a centralized approach;
--  a decentralized approach; or
--  a hybrid approach.
+- A centralized approach;
+- A decentralized approach; or
+- A hybrid approach.
 The authority, responsibility, and decision-making power related to information security and risk management differ in each governance approach. The appropriate governance structure for an organization varies based on many factors (e.g., mission/business needs; culture and size of the organization; geographic distribution of organizational operations, assets, and individuals; and risk tolerance). The information security governance structure is aligned with other governance structures (e.g., information technology governance) to ensure compatibility with the established management practices within the organization and to increase its overall effectiveness.
 
 ### Centralized Governance
@@ -1329,27 +1316,26 @@ Organizations develop risk management strategies as part of the risk framing ste
 making explicit and transparent the risk perceptions that organizations routinely use in making both investment and operational decisions. As part of organizational risk management strategies, organizations also develop risk response strategies. The practical realities facing organizations today make risk response strategies essential—the realities of needing the mission/business effectiveness offered by information technology, the lack of trustworthiness in the technologies available, and the growing awareness by adversaries of the potential to achieve their objectives to cause harm by compromising organizational information systems and the environments in which those systems operate. Senior leaders/executives in modern organizations are faced with an almost intractable dilemma—that is, the information technologies needed for mission/business success may be the same technologies through which adversaries cause mission/business failure.
 The risk response strategies developed and implemented by organizations provide these senior leaders/executives (i.e., decision makers within organizations) with practical, pragmatic paths for dealing with this dilemma. Clearly defined and articulated risk response strategies help to ensure that senior leaders/executives take ownership of organizational risk responses and are ultimately responsible and accountable for risk decisions—understanding, acknowledging, and explicitly accepting the resulting mission/business risk.
 As described in Chapter Two, there are five basic types of responses to risk:
--  accept;
--  avoid;
+- Accept;
+- Avoid;
 
--  mitigate;
--  share; and
--  transfer. While each type of response can have an associated strategy, there should be an overall strategy for selecting from among the basic response types.
+- Mitigate;
+- Share; and
+- Transfer. While each type of response can have an associated strategy, there should be an overall strategy for selecting from among the basic response types.
 This overall risk response strategy and a strategy for each type of response are discussed below.
 In addition, specific risk mitigation strategies are presented, including a description of how such strategies can be implemented within organizations.
 
 ## H.1 OVERALL RISK RESPONSE STRATEGIES
 
 Risk response strategies specify:
--  individuals or organizational subcomponents that are responsible for the selected risk response measures and specifications of effectiveness criteria
+- Individuals or organizational subcomponents that are responsible for the selected risk response measures and specifications of effectiveness criteria
 (i.e., articulation of indicators and thresholds against which the effectiveness of risk response measures can be judged);
--  dependencies of the selected risk response measures on other risk response measures;
--  dependencies of selected risk response measures on other factors (e.g., implementation of other planned information technology measures);
--  implementation timeline for risk responses;
--  plans for monitoring the effectiveness of the risk response measures;
--
-identification of risk monitoring triggers; and
--  interim risk response measures selected for implementation, if appropriate. Risk response implementation strategies may include interim measures that organizations choose to implement. An overall risk response strategy provides an organizational approach to selecting between the basic risk responses for a given risk situation. A decision to accept risk must be consistent with the stated organizational tolerance for risk. Yet there is still need for a well-defined, established organizational path for selecting one or a combination of the risk responses of acceptance, avoidance, mitigation, sharing, or transfer.
+- Dependencies of the selected risk response measures on other risk response measures;
+- Dependencies of selected risk response measures on other factors (e.g., implementation of other planned information technology measures);
+- Implementation timeline for risk responses;
+- Plans for monitoring the effectiveness of the risk response measures;
+- Identification of risk monitoring triggers; and
+- Interim risk response measures selected for implementation, if appropriate. Risk response implementation strategies may include interim measures that organizations choose to implement. An overall risk response strategy provides an organizational approach to selecting between the basic risk responses for a given risk situation. A decision to accept risk must be consistent with the stated organizational tolerance for risk. Yet there is still need for a well-defined, established organizational path for selecting one or a combination of the risk responses of acceptance, avoidance, mitigation, sharing, or transfer.
 Organizations are often placed in situations where there is greater risk than the designated senior leaders/executives desire to accept. Some risk acceptance will likely be necessary. It might be possible to avoid risk or to share or transfer risk, and some risk mitigation is probably feasible.
 Avoiding risk may require selective reengineering of organizational mission/business processes and forgoing some of the benefits being accrued by the use of information technology organization-wide, perhaps even what organizations perceive as necessary benefits. Mitigating risk requires expenditure of limited resources and may quickly become cost-ineffective due to the pragmatic realities of the degree of mitigation that can actually be achieved. Lastly, risk sharing and transfer have ramifications as well, some of which if not unacceptable, may be undesirable.
 The risk response strategies of organizations empower senior leaders/executives to make riskbased decisions compliant with the goals, objectives, and broader organizational perspectives.
@@ -1361,8 +1347,8 @@ Organizational risk acceptance strategies are essential companions to organizati
 ## H.3 RISK AVOIDANCE STRATEGIES
 
 Of all the risk response strategies, organizational risk avoidance strategies may be the key to achieving adequate risk response. The pragmatic realities of the trustworthiness of information technologies available for use within common resource constraints, make wise use of those technologies arguably a significant, if not the most significant risk response. Wise use of the information technologies that compose organizational information systems is fundamentally a form of risk avoidance—that is, organizations modify how information technologies are used to change the nature of the risk being incurred (i.e., avoid the risk). Yet such approaches can be in great tension with organizational desires and in some cases, the mandate to fully automate mission/business processes. Organizations proactively address this dilemma so that:
--  senior leaders/executives (and other organizational officials making risk-based decisions) are held accountable for only that which is within their ability to affect; and
--  decision makers can make the difficult risk decisions that may, in fact, be in the best interests of organizations.
+- Senior leaders/executives (and other organizational officials making risk-based decisions) are held accountable for only that which is within their ability to affect; and
+- Decision makers can make the difficult risk decisions that may, in fact, be in the best interests of organizations.
 
 ## H.4 RISK SHARING AND TRANSFER STRATEGIES
 
