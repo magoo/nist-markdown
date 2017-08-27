@@ -918,8 +918,7 @@ For example, compliance monitoring results may require that organizations revisi
 
 1. National Institute of Standards and Technology Federal Information Processing Standards Publication 199, Standards for Security Categorization of Federal Information and Information Systems, February 2004.
 2. National Institute of Standards and Technology Federal Information Processing Standards Publication 200, Minimum Security Requirements for Federal Information and Information Systems, March 2006.
-3. ISO/IEC 15408:2005, Common Criteria for Information Technology Security Evaluation,
-2005.
+3. ISO/IEC 15408:2005, Common Criteria for Information Technology Security Evaluation, 2005.
 
 ###  GUIDELINES
 
