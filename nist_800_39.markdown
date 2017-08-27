@@ -555,7 +555,7 @@ These sources are typically based on:
 
 The characterization of threat sources are refined for the missions/business functions established by organizations—with the results being that some threat sources might not be of concern, while others could be described in greater detail. At Tier 3, program managers, information system owners, and common control providers consider the phase in the system development life cycle to determine the level of detail with which threats can be considered. Greater threat specificity tends to be available later in the life cycle.
 
-#######Vulnerabilities
+*Vulnerabilities*
 
 Organizations identify approaches used to characterize vulnerabilities, consistent with the characterization of threat sources and events. Vulnerabilities can be associated with exploitable weakness or deficiencies in:
 
@@ -920,6 +920,7 @@ For example, compliance monitoring results may require that organizations revisi
 2. National Institute of Standards and Technology Federal Information Processing Standards Publication 200, Minimum Security Requirements for Federal Information and Information Systems, March 2006.
 3. ISO/IEC 15408:2005, Common Criteria for Information Technology Security Evaluation,
 2005.
+
 ###  GUIDELINES
 
 1. National Institute of Standards and Technology Special Publication 800-18, Revision 1, Guide for Developing Security Plans for Federal Information Systems, February 2006.
