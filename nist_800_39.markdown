@@ -1,6 +1,7 @@
 # NIST Special Publication 800-39
 > This version is heavily edited for markdown formatting.
-> Please see original publication for serious usage.
+
+> Please see original publication for serious usage, as small discrepencies are likely.
 
 # Chapter One
 
