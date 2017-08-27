@@ -3,7 +3,7 @@
 
 > Please see original publication for serious usage, as small discrepencies are likely.
 
-> For instance, all footnotes were removed. Did you need them? They're not here. 
+> For instance, all footnotes were removed. Did you need them? They're not here.
 
 # Chapter One
 
@@ -1140,7 +1140,7 @@ A major subdivision or component of an information system consisting of informat
 ## ROLES AND RESPONSIBILITIES - KEY PARTICIPANTS IN THE RISK MANAGEMENT PROCESS
 The following sections describe the roles and responsibilities of key participants involved in an organization’s risk management process. Recognizing that organizations have widely varying missions and organizational structures, there may be differences in naming conventions for risk management-related roles and how specific responsibilities are allocated among organizational personnel (e.g., multiple individuals filling a single role or one individual filling multiple roles).68 However, the basic functions remain the same. The application of the risk management process across the three risk management tiers described in this publication is flexible, allowing organizations to effectively accomplish the intent of the specific tasks within their respective organizational structures to best manage risk.
 
-###D.1 HEAD OF AGENCY (CHIEF EXECUTIVE OFFICER)
+### D.1 HEAD OF AGENCY (CHIEF EXECUTIVE OFFICER)
 
 The head of agency (or chief executive officer) is the highest-level senior official or executive within an organization with the overall responsibility to provide information security protections commensurate with the risk and magnitude of harm (i.e., impact) to organizational operations and assets, individuals, other organizations, and the Nation resulting from unauthorized access, use, disclosure, disruption, modification, or destruction of:
 - Information collected or maintained by or on behalf of the agency
@@ -1235,7 +1235,7 @@ This responsibility may also include, but is not limited to, physical and enviro
 
 The information security architect is an individual, group, or organization responsible for ensuring that the information security requirements necessary to protect the organizational missions/business functions are adequately addressed in all aspects of enterprise architecture including reference models, segment and solution architectures, and the resulting information systems supporting those missions and business processes. The information security architect serves as the liaison between the enterprise architect and the information system security engineer and also coordinates with information system owners, common control providers, and information system security officers on the allocation of security controls as system-specific, hybrid, or common controls. In addition, information security architects, in close coordination with information system security officers, advise authorizing officials, chief information officers, senior information security officers, and the risk executive (function), on a range of security related issues including, for example, establishing information system boundaries, assessing the severity of weaknesses and deficiencies in the information system, plans of action and milestones, risk mitigation approaches, security alerts, and potential adverse effects of vulnerabilities.
 
-###D.12 INFORMATION SYSTEM SECURITY ENGINEER
+### D.12 INFORMATION SYSTEM SECURITY ENGINEER
 The information system security engineer is an individual, group, or organization responsible for conducting information system security engineering activities. Information system security engineering is a process that captures and refines information security requirements and ensures that the requirements are effectively integrated into information technology component products and information systems through purposeful security architecting, design, development, and configuration. Information system security engineers are an integral part of the development team
 (e.g., integrated project team) designing and developing organizational information systems or upgrading legacy systems. Information system security engineers employ best practices when implementing security controls within an information system including software engineering methodologies, system/security engineering principles, secure design, secure architecture, and secure coding techniques. System security engineers coordinate their security-related activities with information security architects, senior information security officers, information system owners, common control providers, and information system security officers.
 
